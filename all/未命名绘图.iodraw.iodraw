@@ -41,8 +41,11 @@
         <mxCell id="rcpu6wV2YqjFsyxSmEHs-28" value="20~60" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="325" y="570" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rcpu6wV2YqjFsyxSmEHs-32" value="白帘闭合图调整&lt;div&gt;黑帘闭合度为0%&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rcpu6wV2YqjFsyxSmEHs-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rcpu6wV2YqjFsyxSmEHs-33" value="&amp;lt;=20" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="585" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
