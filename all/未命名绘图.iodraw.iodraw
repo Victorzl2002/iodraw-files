@@ -22,7 +22,7 @@
         <mxCell id="rcpu6wV2YqjFsyxSmEHs-6" value="光客独立PID控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rcpu6wV2YqjFsyxSmEHs-8" value="光感预测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rcpu6wV2YqjFsyxSmEHs-8" value="光感预检" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
