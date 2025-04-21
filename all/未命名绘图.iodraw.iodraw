@@ -54,7 +54,7 @@
         <mxCell id="rcpu6wV2YqjFsyxSmEHs-8" value="光感预检" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rcpu6wV2YqjFsyxSmEHs-18" value="白帘闭合图调整&lt;div&gt;黑帘开启&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rcpu6wV2YqjFsyxSmEHs-18" value="白帘闭合图调整&lt;div&gt;黑帘闭合度为0%&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rcpu6wV2YqjFsyxSmEHs-22" value="&amp;gt;60" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
