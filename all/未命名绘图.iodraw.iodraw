@@ -32,6 +32,9 @@
         <mxCell id="rcpu6wV2YqjFsyxSmEHs-3" value="正常模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="480" width="150" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="rcpu6wV2YqjFsyxSmEHs-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rcpu6wV2YqjFsyxSmEHs-18" target="rcpu6wV2YqjFsyxSmEHs-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rcpu6wV2YqjFsyxSmEHs-18" value="白帘闭合图调整&lt;div&gt;黑帘闭合度为0%&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="490" width="120" height="60" as="geometry" />
         </mxCell>
@@ -55,6 +58,9 @@
         </mxCell>
         <mxCell id="rcpu6wV2YqjFsyxSmEHs-35" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rcpu6wV2YqjFsyxSmEHs-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.406;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rcpu6wV2YqjFsyxSmEHs-34" target="rcpu6wV2YqjFsyxSmEHs-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
