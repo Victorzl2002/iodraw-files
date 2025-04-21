@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rcpu6wV2YqjFsyxSmEHs-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rcpu6wV2YqjFsyxSmEHs-1" target="rcpu6wV2YqjFsyxSmEHs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rcpu6wV2YqjFsyxSmEHs-1" value="光照传感器遮蔽" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="220" width="120" height="60" as="geometry" />
         </mxCell>
@@ -12,6 +15,11 @@
         </mxCell>
         <mxCell id="rcpu6wV2YqjFsyxSmEHs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rcpu6wV2YqjFsyxSmEHs-2" target="rcpu6wV2YqjFsyxSmEHs-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rcpu6wV2YqjFsyxSmEHs-17" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rcpu6wV2YqjFsyxSmEHs-14">
+          <mxGeometry x="-0.0492" y="4" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rcpu6wV2YqjFsyxSmEHs-2" value="强光模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="350" width="150" height="80" as="geometry" />
