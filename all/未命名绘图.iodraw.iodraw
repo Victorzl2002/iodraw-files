@@ -24,14 +24,9 @@
             <mxPoint x="310.0000000000001" y="599.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rcpu6wV2YqjFsyxSmEHs-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rcpu6wV2YqjFsyxSmEHs-3">
+        <mxCell id="rcpu6wV2YqjFsyxSmEHs-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rcpu6wV2YqjFsyxSmEHs-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="709.9999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rcpu6wV2YqjFsyxSmEHs-25" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rcpu6wV2YqjFsyxSmEHs-24">
-          <mxGeometry x="0.3785" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="100" y="689.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rcpu6wV2YqjFsyxSmEHs-3" value="正常模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -45,6 +40,9 @@
         </mxCell>
         <mxCell id="rcpu6wV2YqjFsyxSmEHs-23" value="20~60" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rcpu6wV2YqjFsyxSmEHs-27" value="20~60" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="450" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
