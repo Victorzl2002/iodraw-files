@@ -19,23 +19,19 @@
         <mxCell id="rcpu6wV2YqjFsyxSmEHs-2" value="强光模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="350" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rcpu6wV2YqjFsyxSmEHs-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rcpu6wV2YqjFsyxSmEHs-3" target="rcpu6wV2YqjFsyxSmEHs-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rcpu6wV2YqjFsyxSmEHs-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rcpu6wV2YqjFsyxSmEHs-3" target="rcpu6wV2YqjFsyxSmEHs-18">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rcpu6wV2YqjFsyxSmEHs-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rcpu6wV2YqjFsyxSmEHs-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310.0000000000001" y="599.9999999999998" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rcpu6wV2YqjFsyxSmEHs-3" value="正常模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="480" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rcpu6wV2YqjFsyxSmEHs-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rcpu6wV2YqjFsyxSmEHs-4" target="rcpu6wV2YqjFsyxSmEHs-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rcpu6wV2YqjFsyxSmEHs-4" value="白帘调开" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="600" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rcpu6wV2YqjFsyxSmEHs-5" value="光景进断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="710" width="120" height="60" as="geometry" />
+        <mxCell id="rcpu6wV2YqjFsyxSmEHs-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="309.9999999999999" y="659.9999999999998" as="sourcePoint" />
+            <mxPoint x="310.0000000000001" y="709.9999999999998" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rcpu6wV2YqjFsyxSmEHs-18" value="白帘闭合图调整&lt;div&gt;黑帘闭合度为0%&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="490" width="120" height="60" as="geometry" />
