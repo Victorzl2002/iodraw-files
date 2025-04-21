@@ -7,6 +7,9 @@
         <mxCell id="rcpu6wV2YqjFsyxSmEHs-1" value="光照传感器遮蔽" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rcpu6wV2YqjFsyxSmEHs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rcpu6wV2YqjFsyxSmEHs-2" target="rcpu6wV2YqjFsyxSmEHs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rcpu6wV2YqjFsyxSmEHs-2" value="强光模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="350" width="150" height="80" as="geometry" />
         </mxCell>
@@ -18,6 +21,9 @@
         </mxCell>
         <mxCell id="rcpu6wV2YqjFsyxSmEHs-5" value="光景进断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rcpu6wV2YqjFsyxSmEHs-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rcpu6wV2YqjFsyxSmEHs-6" target="rcpu6wV2YqjFsyxSmEHs-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rcpu6wV2YqjFsyxSmEHs-6" value="光客独立PID控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="490" width="120" height="60" as="geometry" />
