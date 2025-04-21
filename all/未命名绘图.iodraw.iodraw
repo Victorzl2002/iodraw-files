@@ -50,6 +50,9 @@
         <mxCell id="rcpu6wV2YqjFsyxSmEHs-34" value="调整白帘闭合度&lt;div&gt;开启黑帘&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="690" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rcpu6wV2YqjFsyxSmEHs-35" value="光照传感器遮蔽" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
