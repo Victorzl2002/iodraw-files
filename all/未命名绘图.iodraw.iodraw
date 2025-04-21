@@ -7,8 +7,11 @@
         <mxCell id="rcpu6wV2YqjFsyxSmEHs-1" value="光照传感器遮蔽" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rcpu6wV2YqjFsyxSmEHs-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="340" width="80" height="80" as="geometry" />
+        <mxCell id="rcpu6wV2YqjFsyxSmEHs-2" value="强光模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="350" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rcpu6wV2YqjFsyxSmEHs-3" value="强光模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="360" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
