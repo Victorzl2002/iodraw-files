@@ -249,10 +249,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AsGdMNVTeO2VcvppsrNn-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.024;entryY=0.307;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="AsGdMNVTeO2VcvppsrNn-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="690" as="sourcePoint" />
-            <mxPoint x="343" y="691" as="targetPoint" />
+            <mxPoint x="160" y="700" as="sourcePoint" />
+            <mxPoint x="333" y="701" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AsGdMNVTeO2VcvppsrNn-57" value="修改信息请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AsGdMNVTeO2VcvppsrNn-56">
