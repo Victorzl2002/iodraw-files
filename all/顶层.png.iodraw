@@ -293,6 +293,9 @@
         <mxCell id="AsGdMNVTeO2VcvppsrNn-70" value="P3.1&lt;div&gt;集装箱管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="1500" width="150" height="180" as="geometry" />
         </mxCell>
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-71" value="E1&lt;div&gt;用户&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1505" width="170" height="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
