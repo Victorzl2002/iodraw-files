@@ -316,7 +316,18 @@
           <mxGeometry x="380" y="1750" width="150" height="180" as="geometry" />
         </mxCell>
         <mxCell id="AsGdMNVTeO2VcvppsrNn-77" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;D3&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 集装箱信息库&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="1550" width="140" height="100" as="geometry" />
+          <mxGeometry x="650" y="1530" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.022;entryY=0.601;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AsGdMNVTeO2VcvppsrNn-70" target="AsGdMNVTeO2VcvppsrNn-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-80" value="集装箱利用率" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AsGdMNVTeO2VcvppsrNn-79">
+          <mxGeometry x="-0.0262" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-81" value="E1&lt;div&gt;用户&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1515" width="170" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
