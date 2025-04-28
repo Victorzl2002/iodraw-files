@@ -169,7 +169,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AsGdMNVTeO2VcvppsrNn-30" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AsGdMNVTeO2VcvppsrNn-28">
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-30" value="货物登记请求&lt;div&gt;货物查询请求&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AsGdMNVTeO2VcvppsrNn-28">
           <mxGeometry x="-0.6643" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
