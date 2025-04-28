@@ -200,7 +200,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AsGdMNVTeO2VcvppsrNn-43" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AsGdMNVTeO2VcvppsrNn-42">
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-43" value="实时监测货物环境数据&lt;div&gt;温度湿度位置&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AsGdMNVTeO2VcvppsrNn-42">
           <mxGeometry x="-0.6638" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
