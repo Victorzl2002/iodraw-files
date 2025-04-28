@@ -79,8 +79,8 @@
             <mxPoint x="150" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dXlYAXGBOOsgMJ2DRO5--22" value="数据信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dXlYAXGBOOsgMJ2DRO5--21">
-          <mxGeometry x="0.0839" y="-3" relative="1" as="geometry">
+        <mxCell id="dXlYAXGBOOsgMJ2DRO5--24" value="反馈信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dXlYAXGBOOsgMJ2DRO5--21">
+          <mxGeometry x="0.162" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
