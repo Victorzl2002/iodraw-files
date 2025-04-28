@@ -329,7 +329,7 @@
         <mxCell id="AsGdMNVTeO2VcvppsrNn-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AsGdMNVTeO2VcvppsrNn-81" target="AsGdMNVTeO2VcvppsrNn-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AsGdMNVTeO2VcvppsrNn-86" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AsGdMNVTeO2VcvppsrNn-85">
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-86" value="新物数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AsGdMNVTeO2VcvppsrNn-85">
           <mxGeometry x="-0.0057" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -339,6 +339,9 @@
         </mxCell>
         <mxCell id="AsGdMNVTeO2VcvppsrNn-82" value="P2.1&lt;div&gt;货物管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="2080" width="150" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-87" value="P2.1&lt;div&gt;新货物登记处理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1960" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
