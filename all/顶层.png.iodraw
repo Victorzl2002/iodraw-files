@@ -561,7 +561,7 @@
         <mxCell id="AsGdMNVTeO2VcvppsrNn-148" value="容量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1213" y="3218.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AsGdMNVTeO2VcvppsrNn-149" value="体积" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-149" value="利用率" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1015" y="3351.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AsGdMNVTeO2VcvppsrNn-150" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="AsGdMNVTeO2VcvppsrNn-143">
@@ -606,7 +606,7 @@
             <mxPoint x="1028" y="3317.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AsGdMNVTeO2VcvppsrNn-157" value="发货人" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-157" value="位置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="3320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AsGdMNVTeO2VcvppsrNn-158" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AsGdMNVTeO2VcvppsrNn-143" target="AsGdMNVTeO2VcvppsrNn-157">
@@ -615,11 +615,14 @@
             <mxPoint x="987" y="3263" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AsGdMNVTeO2VcvppsrNn-159" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="AsGdMNVTeO2VcvppsrNn-143">
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-159" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="AsGdMNVTeO2VcvppsrNn-143" source="AsGdMNVTeO2VcvppsrNn-160">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="790" y="3279" as="sourcePoint" />
             <mxPoint x="820" y="3210" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-160" value="登记" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="3240" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
