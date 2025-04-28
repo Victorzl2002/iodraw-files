@@ -136,7 +136,7 @@
           <mxGeometry x="140" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AsGdMNVTeO2VcvppsrNn-9" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; D2&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 货物信息库&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="1200" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AsGdMNVTeO2VcvppsrNn-10" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; D3&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 集装箱信息库&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="1200" width="120" height="60" as="geometry" />
@@ -189,24 +189,6 @@
         </mxCell>
         <mxCell id="AsGdMNVTeO2VcvppsrNn-30" value="货物登记请求&lt;div&gt;货物查询请求&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AsGdMNVTeO2VcvppsrNn-28">
           <mxGeometry x="-0.6643" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AsGdMNVTeO2VcvppsrNn-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AsGdMNVTeO2VcvppsrNn-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="365.0011764705883" y="930" as="sourcePoint" />
-            <mxPoint x="292" y="1248" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="365" y="910" />
-              <mxPoint x="365" y="970" />
-              <mxPoint x="270" y="970" />
-              <mxPoint x="270" y="1240" />
-              <mxPoint x="292" y="1240" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AsGdMNVTeO2VcvppsrNn-40" value="新货物信息录入&lt;div&gt;货物状态更新&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AsGdMNVTeO2VcvppsrNn-35">
-          <mxGeometry x="0.0926" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
