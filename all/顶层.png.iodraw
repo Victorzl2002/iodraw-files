@@ -140,8 +140,11 @@
             <mxPoint x="333" y="651" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AsGdMNVTeO2VcvppsrNn-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="215" y="618" width="50" height="30" as="geometry" />
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-15" value="注册请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="618" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-16" value="注册请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="628" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
