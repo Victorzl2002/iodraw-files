@@ -160,22 +160,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AsGdMNVTeO2VcvppsrNn-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AsGdMNVTeO2VcvppsrNn-5" target="AsGdMNVTeO2VcvppsrNn-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="870" as="sourcePoint" />
             <mxPoint x="310" y="820" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AsGdMNVTeO2VcvppsrNn-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="870" as="sourcePoint" />
-            <mxPoint x="310" y="820" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AsGdMNVTeO2VcvppsrNn-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.012;entryY=0.57;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="AsGdMNVTeO2VcvppsrNn-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="720" as="sourcePoint" />
-            <mxPoint x="140" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
