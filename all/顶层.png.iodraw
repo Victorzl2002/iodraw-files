@@ -327,7 +327,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AsGdMNVTeO2VcvppsrNn-81" value="E1&lt;div&gt;用户&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="115" y="1515" width="170" height="170" as="geometry" />
+          <mxGeometry x="100" y="2070" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-82" value="P2.1&lt;div&gt;货物管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="2070" width="150" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
