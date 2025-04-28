@@ -162,6 +162,11 @@
             <mxPoint x="333" y="681" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-55" value="修改信息请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AsGdMNVTeO2VcvppsrNn-17">
+          <mxGeometry x="-0.1585" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AsGdMNVTeO2VcvppsrNn-24" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="AsGdMNVTeO2VcvppsrNn-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="710" as="sourcePoint" />
@@ -239,8 +244,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AsGdMNVTeO2VcvppsrNn-52" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AsGdMNVTeO2VcvppsrNn-51">
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-52" value="集装箱信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AsGdMNVTeO2VcvppsrNn-51">
           <mxGeometry x="0.1156" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.024;entryY=0.307;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="690" as="sourcePoint" />
+            <mxPoint x="343" y="691" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-57" value="修改信息请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AsGdMNVTeO2VcvppsrNn-56">
+          <mxGeometry x="-0.1585" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
