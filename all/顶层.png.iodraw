@@ -253,10 +253,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="700" as="sourcePoint" />
             <mxPoint x="333" y="701" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="246" y="701" />
+              <mxPoint x="246" y="1040" />
+              <mxPoint x="330" y="1040" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AsGdMNVTeO2VcvppsrNn-57" value="修改信息请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AsGdMNVTeO2VcvppsrNn-56">
-          <mxGeometry x="-0.1585" y="-1" relative="1" as="geometry">
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-58" value="查询运输任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AsGdMNVTeO2VcvppsrNn-56">
+          <mxGeometry x="-0.4083" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
