@@ -7,7 +7,7 @@
         <mxCell id="dXlYAXGBOOsgMJ2DRO5--1" value="&lt;span style=&quot;text-align: start; font-size: 12pt; font-family: 宋体;&quot;&gt;基于数字孪生的智慧港口管控平台&lt;/span&gt;&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="200" width="140" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="dXlYAXGBOOsgMJ2DRO5--2" value="用户&lt;div&gt;（港口管理员&lt;/div&gt;&lt;div&gt;）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dXlYAXGBOOsgMJ2DRO5--2" value="用户&lt;div&gt;港口管理员&lt;/div&gt;&lt;div&gt;货代公司&lt;/div&gt;&lt;div&gt;航运公司&lt;/div&gt;&lt;div&gt;航运用户&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="200" width="150" height="230" as="geometry" />
         </mxCell>
         <mxCell id="dXlYAXGBOOsgMJ2DRO5--3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -17,6 +17,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="440" as="sourcePoint" />
             <mxPoint x="450" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dXlYAXGBOOsgMJ2DRO5--5" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dXlYAXGBOOsgMJ2DRO5--4">
+          <mxGeometry x="-0.094" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
