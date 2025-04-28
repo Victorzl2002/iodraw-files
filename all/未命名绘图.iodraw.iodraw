@@ -53,11 +53,14 @@
         <mxCell id="rcpu6wV2YqjFsyxSmEHs-33" value="&amp;lt;=20" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="105" y="585" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="rcpu6wV2YqjFsyxSmEHs-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rcpu6wV2YqjFsyxSmEHs-34" target="rcpu6wV2YqjFsyxSmEHs-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rcpu6wV2YqjFsyxSmEHs-34" value="调整白帘闭合度&lt;div&gt;开启黑帘&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rcpu6wV2YqjFsyxSmEHs-35" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
