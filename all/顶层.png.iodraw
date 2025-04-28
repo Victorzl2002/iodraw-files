@@ -349,7 +349,7 @@
         <mxCell id="AsGdMNVTeO2VcvppsrNn-81" value="E1&lt;div&gt;用户&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="70" y="2130" width="170" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="AsGdMNVTeO2VcvppsrNn-82" value="P2.1&lt;div&gt;货物管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-82" value="P2.2&lt;div&gt;货物环境监测管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="2130" width="150" height="180" as="geometry" />
         </mxCell>
         <mxCell id="AsGdMNVTeO2VcvppsrNn-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AsGdMNVTeO2VcvppsrNn-87" target="AsGdMNVTeO2VcvppsrNn-82">
@@ -362,6 +362,9 @@
         </mxCell>
         <mxCell id="AsGdMNVTeO2VcvppsrNn-87" value="P2.1&lt;div&gt;新货物登记处理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="1960" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-94" value="E3&lt;div&gt;硬件设别&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="2170" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
