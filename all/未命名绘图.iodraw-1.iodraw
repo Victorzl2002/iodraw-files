@@ -84,10 +84,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dXlYAXGBOOsgMJ2DRO5--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="dXlYAXGBOOsgMJ2DRO5--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.999;exitY=0.702;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dXlYAXGBOOsgMJ2DRO5--1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="325" as="sourcePoint" />
-            <mxPoint x="330" y="325" as="targetPoint" />
+            <mxPoint x="470" y="360" as="sourcePoint" />
+            <mxPoint x="600" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dXlYAXGBOOsgMJ2DRO5--26" value="登录请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dXlYAXGBOOsgMJ2DRO5--25">
