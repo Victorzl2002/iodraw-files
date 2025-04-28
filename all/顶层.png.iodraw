@@ -174,10 +174,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AsGdMNVTeO2VcvppsrNn-31" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-31" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="AsGdMNVTeO2VcvppsrNn-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="289.99999999999955" y="835" as="sourcePoint" />
-            <mxPoint x="250" y="1250" as="targetPoint" />
+            <mxPoint x="309.99999999999955" y="835" as="sourcePoint" />
+            <mxPoint x="270" y="1250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
