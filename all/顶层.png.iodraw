@@ -134,6 +134,15 @@
         <mxCell id="AsGdMNVTeO2VcvppsrNn-13" value="登录请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="205" y="580" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.024;entryY=0.307;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="650" as="sourcePoint" />
+            <mxPoint x="333" y="651" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="618" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
