@@ -315,8 +315,8 @@
         <mxCell id="AsGdMNVTeO2VcvppsrNn-72" value="P3.2&lt;div&gt;更新集装箱绑定关系&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="1750" width="150" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="AsGdMNVTeO2VcvppsrNn-77" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1520" width="140" height="100" as="geometry" />
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-77" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;D3&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 集装箱信息库&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1550" width="140" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
