@@ -693,7 +693,7 @@
             <mxPoint x="450" y="3511.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AsGdMNVTeO2VcvppsrNn-204" value="分配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-204" value="负责" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="3160" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AsGdMNVTeO2VcvppsrNn-205" value="分配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
