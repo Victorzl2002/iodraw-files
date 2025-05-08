@@ -990,6 +990,11 @@
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_ZJ5SS_poQakwsE9Tasu-63" target="_ZJ5SS_poQakwsE9Tasu-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-87" value="分配结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_ZJ5SS_poQakwsE9Tasu-86">
+          <mxGeometry x="-0.0608" y="8" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-63" value="进入货物智能分配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="-1840" width="170" height="100" as="geometry" />
         </mxCell>
@@ -1084,6 +1089,9 @@
               <mxPoint x="820" y="-1790" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-88" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-2150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
