@@ -1000,7 +1000,7 @@
           <mxGeometry x="517.5" y="-1840" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-66" value="查询货物信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="-1680" width="170" height="100" as="geometry" />
+          <mxGeometry x="462.5" y="-1680" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-67" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;elbow=vertical;" edge="1" parent="1" source="_ZJ5SS_poQakwsE9Tasu-66" target="_ZJ5SS_poQakwsE9Tasu-66">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1026,7 +1026,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ZJ5SS_poQakwsE9Tasu-73" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-73" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="_ZJ5SS_poQakwsE9Tasu-66">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="-1740" as="sourcePoint" />
             <mxPoint x="560" y="-1790" as="targetPoint" />
