@@ -1032,6 +1032,11 @@
             <mxPoint x="510" y="-1680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-74" value="查询请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_ZJ5SS_poQakwsE9Tasu-73">
+          <mxGeometry x="-0.119" y="2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
