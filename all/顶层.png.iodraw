@@ -856,16 +856,16 @@
           <mxGeometry x="1105" y="-1269" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-17" value="智能环境检测子系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="-1110" width="170" height="100" as="geometry" />
+          <mxGeometry x="1055" y="-1110" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-18" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="_ZJ5SS_poQakwsE9Tasu-17" target="_ZJ5SS_poQakwsE9Tasu-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="880" y="-1090" as="sourcePoint" />
-            <mxPoint x="930" y="-1140" as="targetPoint" />
+            <mxPoint x="1055" y="-1090" as="sourcePoint" />
+            <mxPoint x="1105" y="-1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-19" value="P2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="-1120" width="60" height="30" as="geometry" />
+          <mxGeometry x="1105" y="-1110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-20" value="数字孪生可视化子系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="885" y="-950" width="170" height="100" as="geometry" />
@@ -877,7 +877,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-22" value="P3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="-970" width="60" height="30" as="geometry" />
+          <mxGeometry x="935" y="-950" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-23" value="危险品识别子系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="-820" width="170" height="100" as="geometry" />
