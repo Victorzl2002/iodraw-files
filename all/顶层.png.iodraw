@@ -33,7 +33,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dXlYAXGBOOsgMJ2DRO5--3" value="硬件设备" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="795" y="30" width="145" height="230" as="geometry" />
+          <mxGeometry x="807.5" y="30" width="125" height="230" as="geometry" />
         </mxCell>
         <mxCell id="dXlYAXGBOOsgMJ2DRO5--4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="dXlYAXGBOOsgMJ2DRO5--2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -766,6 +766,12 @@
         <mxCell id="QseufgcnjV-5NwnC1HGA-10" value="角色信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QseufgcnjV-5NwnC1HGA-7">
           <mxGeometry x="0.1275" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QseufgcnjV-5NwnC1HGA-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="-60" as="sourcePoint" />
+            <mxPoint x="900" y="-110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
