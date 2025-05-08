@@ -809,7 +809,12 @@
         <mxCell id="QseufgcnjV-5NwnC1HGA-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1010" y="-240" as="sourcePoint" />
-            <mxPoint x="1060" y="-290" as="targetPoint" />
+            <mxPoint x="1170" y="-240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QseufgcnjV-5NwnC1HGA-37" value="运输计划&lt;div&gt;航班计划&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QseufgcnjV-5NwnC1HGA-36">
+          <mxGeometry x="-0.0609" y="-2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
