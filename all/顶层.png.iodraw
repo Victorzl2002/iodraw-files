@@ -826,6 +826,9 @@
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-2" value="E1&lt;div&gt;管理员&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="-950" width="180" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-8" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-1040" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
