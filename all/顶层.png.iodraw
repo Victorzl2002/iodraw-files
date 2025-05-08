@@ -825,8 +825,18 @@
             <mxPoint x="840" y="-1220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-44" value="货物信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_ZJ5SS_poQakwsE9Tasu-36">
+          <mxGeometry x="0.721" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZJ5SS_poQakwsE9Tasu-9" target="_ZJ5SS_poQakwsE9Tasu-17">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-45" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_ZJ5SS_poQakwsE9Tasu-37">
+          <mxGeometry x="0.6137" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZJ5SS_poQakwsE9Tasu-9" target="_ZJ5SS_poQakwsE9Tasu-20">
           <mxGeometry relative="1" as="geometry" />
@@ -839,6 +849,9 @@
             <mxPoint x="690" y="-898" as="sourcePoint" />
             <mxPoint x="1060" y="-622" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZJ5SS_poQakwsE9Tasu-9" target="_ZJ5SS_poQakwsE9Tasu-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-9" value="智慧航运管理系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="517.5" y="-950" width="172.5" height="100" as="geometry" />
