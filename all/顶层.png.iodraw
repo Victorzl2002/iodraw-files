@@ -779,10 +779,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QseufgcnjV-5NwnC1HGA-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dXlYAXGBOOsgMJ2DRO5--3" target="dXlYAXGBOOsgMJ2DRO5--1">
+        <mxCell id="QseufgcnjV-5NwnC1HGA-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dXlYAXGBOOsgMJ2DRO5--3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="850" y="-10" as="sourcePoint" />
-            <mxPoint x="900" y="-60" as="targetPoint" />
+            <mxPoint x="901" y="-60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QseufgcnjV-5NwnC1HGA-19" value="实时环境&lt;div&gt;检测数据&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QseufgcnjV-5NwnC1HGA-18">
+          <mxGeometry x="0.0278" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
