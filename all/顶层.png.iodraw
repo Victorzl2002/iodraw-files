@@ -857,16 +857,40 @@
           <mxGeometry x="930" y="-1120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-20" value="智慧航运管理系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="-1240" width="170" height="100" as="geometry" />
+          <mxGeometry x="880" y="-970" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-21" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="_ZJ5SS_poQakwsE9Tasu-20" target="_ZJ5SS_poQakwsE9Tasu-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="900" y="-1210" as="sourcePoint" />
-            <mxPoint x="950" y="-1260" as="targetPoint" />
+            <mxPoint x="880" y="-940" as="sourcePoint" />
+            <mxPoint x="930" y="-990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-22" value="P1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="950" y="-1240" width="60" height="30" as="geometry" />
+          <mxGeometry x="930" y="-970" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-23" value="智慧航运管理系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="-820" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-24" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="_ZJ5SS_poQakwsE9Tasu-23" target="_ZJ5SS_poQakwsE9Tasu-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="-790" as="sourcePoint" />
+            <mxPoint x="930" y="-840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-25" value="P1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="-820" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-26" value="智慧航运管理系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-1220" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-27" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="_ZJ5SS_poQakwsE9Tasu-26" target="_ZJ5SS_poQakwsE9Tasu-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="-1190" as="sourcePoint" />
+            <mxPoint x="970" y="-1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-28" value="P1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-1220" width="50" height="550" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
