@@ -39,20 +39,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dXlYAXGBOOsgMJ2DRO5--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.999;exitY=0.702;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1322.9999999999995" y="-548.54" as="sourcePoint" />
-            <mxPoint x="1453.1399999999999" y="-550" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1453.1399999999999" y="-549" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dXlYAXGBOOsgMJ2DRO5--26" value="预警信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="dXlYAXGBOOsgMJ2DRO5--25" vertex="1" connectable="0">
-          <mxGeometry x="-0.1109" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AsGdMNVTeO2VcvppsrNn-1" value="P1&lt;div&gt;用户管理模块&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="570" width="130" height="150" as="geometry" />
         </mxCell>
@@ -812,7 +798,7 @@
             <mxPoint x="1170" y="-240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QseufgcnjV-5NwnC1HGA-37" value="运输计划&lt;div&gt;航班计划&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QseufgcnjV-5NwnC1HGA-36">
+        <mxCell id="QseufgcnjV-5NwnC1HGA-37" value="运输计划&lt;div&gt;航班计划&lt;/div&gt;&lt;div&gt;停泊计划&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QseufgcnjV-5NwnC1HGA-36">
           <mxGeometry x="-0.0609" y="-2" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
