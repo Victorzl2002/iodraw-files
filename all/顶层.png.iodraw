@@ -1048,7 +1048,23 @@
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-78" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="-1480" as="sourcePoint" />
-            <mxPoint x="550" y="-1530" as="targetPoint" />
+            <mxPoint x="500" y="-1584" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-79" value="集装箱信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_ZJ5SS_poQakwsE9Tasu-78">
+          <mxGeometry x="0.0852" y="5" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-80" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="-1470" as="sourcePoint" />
+            <mxPoint x="510" y="-1574" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-81" value="集装箱信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_ZJ5SS_poQakwsE9Tasu-80">
+          <mxGeometry x="0.0852" y="5" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
