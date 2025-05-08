@@ -964,7 +964,7 @@
             <mxPoint x="460" y="-1790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ZJ5SS_poQakwsE9Tasu-55" value="货物信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_ZJ5SS_poQakwsE9Tasu-54">
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-55" value="进入请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_ZJ5SS_poQakwsE9Tasu-54">
           <mxGeometry x="-0.0125" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
