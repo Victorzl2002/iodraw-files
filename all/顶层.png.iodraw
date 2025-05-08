@@ -34,7 +34,7 @@
             <mxPoint x="658" y="-395.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QseufgcnjV-5NwnC1HGA-33" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dXlYAXGBOOsgMJ2DRO5--21">
+        <mxCell id="QseufgcnjV-5NwnC1HGA-33" value="发布运输需求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dXlYAXGBOOsgMJ2DRO5--21">
           <mxGeometry x="-0.0945" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
