@@ -10,12 +10,6 @@
         <mxCell id="dXlYAXGBOOsgMJ2DRO5--3" value="硬件设备" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="30" width="125" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="dXlYAXGBOOsgMJ2DRO5--4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="-650" as="sourcePoint" />
-            <mxPoint x="320" y="-649.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dXlYAXGBOOsgMJ2DRO5--21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.126;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="dXlYAXGBOOsgMJ2DRO5--1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="827" y="-395.25" as="sourcePoint" />
@@ -800,6 +794,12 @@
         <mxCell id="QseufgcnjV-5NwnC1HGA-39" value="集装箱堆场状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QseufgcnjV-5NwnC1HGA-38">
           <mxGeometry x="0.1414" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QseufgcnjV-5NwnC1HGA-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1180" y="-130" as="sourcePoint" />
+            <mxPoint x="1230" y="-180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
