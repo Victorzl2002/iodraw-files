@@ -883,7 +883,7 @@
             <mxPoint x="930" y="-1280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ZJ5SS_poQakwsE9Tasu-16" value="P1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-16" value="P2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1105" y="-1269" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-17" value="智能环境检测子系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -974,7 +974,7 @@
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ZJ5SS_poQakwsE9Tasu-57">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="542.5" y="-1850" as="targetPoint" />
+            <mxPoint x="553" y="-1850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-57" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;集装箱信息表&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
