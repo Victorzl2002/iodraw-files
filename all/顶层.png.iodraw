@@ -4,12 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_ZJ5SS_poQakwsE9Tasu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="610" y="-900" as="sourcePoint" />
-            <mxPoint x="610" y="-830" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dXlYAXGBOOsgMJ2DRO5--1" value="&lt;span style=&quot;text-align: start; font-size: 12pt; font-family: 宋体;&quot;&gt;基于数字孪生的智慧港口管控平台&lt;/span&gt;&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="-290" width="210" height="230" as="geometry" />
         </mxCell>
@@ -825,9 +819,6 @@
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-2" value="E1&lt;div&gt;管理员&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="-950" width="180" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="_ZJ5SS_poQakwsE9Tasu-8" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="-1040" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
