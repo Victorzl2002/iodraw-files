@@ -743,7 +743,7 @@
         <mxCell id="QseufgcnjV-5NwnC1HGA-20" value="E2&lt;div&gt;货代公司&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="-540" width="130" height="136" as="geometry" />
         </mxCell>
-        <mxCell id="QseufgcnjV-5NwnC1HGA-21" value="E1&lt;div&gt;管理员&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QseufgcnjV-5NwnC1HGA-21" value="E4&lt;div&gt;港口&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1110" y="-220" width="130" height="136" as="geometry" />
         </mxCell>
         <mxCell id="QseufgcnjV-5NwnC1HGA-22" value="E3&lt;div&gt;船运公司&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
