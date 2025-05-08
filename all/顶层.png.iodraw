@@ -7,7 +7,7 @@
         <mxCell id="dXlYAXGBOOsgMJ2DRO5--1" value="&lt;span style=&quot;text-align: start; font-size: 12pt; font-family: 宋体;&quot;&gt;基于数字孪生的智慧港口管控平台&lt;/span&gt;&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="-290" width="210" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="dXlYAXGBOOsgMJ2DRO5--3" value="硬件设备" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dXlYAXGBOOsgMJ2DRO5--3" value="&lt;div&gt;E6&lt;/div&gt;硬件设备" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="30" width="125" height="150" as="geometry" />
         </mxCell>
         <mxCell id="dXlYAXGBOOsgMJ2DRO5--21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.126;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="dXlYAXGBOOsgMJ2DRO5--1" edge="1">
