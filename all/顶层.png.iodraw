@@ -808,7 +808,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="-950" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="-950" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-950" width="180" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
