@@ -889,11 +889,8 @@
             <mxPoint x="970" y="-1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ZJ5SS_poQakwsE9Tasu-28" value="P1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="970" y="-1220" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_ZJ5SS_poQakwsE9Tasu-29" value="P4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="940" y="-810" width="60" height="30" as="geometry" />
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-29" value="P5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="-684" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
