@@ -975,7 +975,7 @@
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-57" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;集装箱信息表&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="-1480" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_ZJ5SS_poQakwsE9Tasu-58" value="D2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-58" value="D1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="365" y="-1465" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-59" value="" style="endArrow=none;html=1;rounded=0;exitX=0.258;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_ZJ5SS_poQakwsE9Tasu-57">
@@ -1115,8 +1115,8 @@
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-95" value="3.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="495" y="-2230" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_ZJ5SS_poQakwsE9Tasu-96" value="进入智能环境检测系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-2070" width="170" height="100" as="geometry" />
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-96" value="查看硬件检测数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="-2070" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-97" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;elbow=vertical;" edge="1" parent="1" source="_ZJ5SS_poQakwsE9Tasu-96" target="_ZJ5SS_poQakwsE9Tasu-96">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1124,8 +1124,8 @@
             <mxPoint x="580" y="-2081" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ZJ5SS_poQakwsE9Tasu-98" value="3.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="487.5" y="-2070" width="60" height="30" as="geometry" />
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-98" value="3.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="-2070" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
