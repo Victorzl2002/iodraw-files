@@ -1216,6 +1216,14 @@
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-124" value="4.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="482.5" y="-2590" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ZJ5SS_poQakwsE9Tasu-133" target="_ZJ5SS_poQakwsE9Tasu-122">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="253" y="-2470" />
+              <mxPoint x="520" y="-2470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-133" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;集装箱信息表&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="-2430" width="165" height="60" as="geometry" />
         </mxCell>
