@@ -1224,7 +1224,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ZJ5SS_poQakwsE9Tasu-155" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_ZJ5SS_poQakwsE9Tasu-151">
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-155" value="集装箱信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_ZJ5SS_poQakwsE9Tasu-151">
           <mxGeometry x="-0.1734" y="-1" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
@@ -1242,6 +1242,11 @@
             <Array as="points">
               <mxPoint x="212.5" y="-2400" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ZJ5SS_poQakwsE9Tasu-136">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="457.5" y="-2490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-136" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;货物信息表&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
