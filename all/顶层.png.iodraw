@@ -1216,34 +1216,54 @@
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-124" value="4.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="482.5" y="-2590" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_ZJ5SS_poQakwsE9Tasu-125" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;集装箱信息表&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="-1740" width="165" height="60" as="geometry" />
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-133" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;集装箱信息表&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-2430" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_ZJ5SS_poQakwsE9Tasu-126" value="D1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="960" y="-1725" width="60" height="30" as="geometry" />
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-134" value="D1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-2415" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_ZJ5SS_poQakwsE9Tasu-127" value="" style="endArrow=none;html=1;rounded=0;exitX=0.258;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_ZJ5SS_poQakwsE9Tasu-125">
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-135" value="" style="endArrow=none;html=1;rounded=0;exitX=0.258;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_ZJ5SS_poQakwsE9Tasu-133">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1002.5" y="-1690" as="sourcePoint" />
-            <mxPoint x="1002.5" y="-1740" as="targetPoint" />
+            <mxPoint x="212.5" y="-2380" as="sourcePoint" />
+            <mxPoint x="212.5" y="-2430" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1002.5" y="-1710" />
+              <mxPoint x="212.5" y="-2400" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ZJ5SS_poQakwsE9Tasu-128" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;货物信息表&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="1165" y="-1740" width="165" height="60" as="geometry" />
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-136" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;货物信息表&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="-2430" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_ZJ5SS_poQakwsE9Tasu-129" value="D2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1165" y="-1725" width="60" height="30" as="geometry" />
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-137" value="D2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="-2415" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_ZJ5SS_poQakwsE9Tasu-130" value="" style="endArrow=none;html=1;rounded=0;exitX=0.258;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_ZJ5SS_poQakwsE9Tasu-128">
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-138" value="" style="endArrow=none;html=1;rounded=0;exitX=0.258;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_ZJ5SS_poQakwsE9Tasu-136">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1207.5" y="-1690" as="sourcePoint" />
-            <mxPoint x="1207.5" y="-1740" as="targetPoint" />
+            <mxPoint x="417.5" y="-2380" as="sourcePoint" />
+            <mxPoint x="417.5" y="-2430" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1207.5" y="-1710" />
+              <mxPoint x="417.5" y="-2400" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-139" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;货物信息表&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="-2430" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-140" value="D2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="-2415" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-141" value="" style="endArrow=none;html=1;rounded=0;exitX=0.258;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_ZJ5SS_poQakwsE9Tasu-139">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="-2380" as="sourcePoint" />
+            <mxPoint x="620" y="-2430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="-2400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-142" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_ZJ5SS_poQakwsE9Tasu-141">
+          <mxGeometry x="-0.2665" y="3" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
