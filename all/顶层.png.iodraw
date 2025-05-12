@@ -1216,17 +1216,12 @@
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-124" value="4.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="482.5" y="-2590" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_ZJ5SS_poQakwsE9Tasu-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ZJ5SS_poQakwsE9Tasu-133" target="_ZJ5SS_poQakwsE9Tasu-122">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="253" y="-2470" />
-              <mxPoint x="520" y="-2470" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZJ5SS_poQakwsE9Tasu-133" target="_ZJ5SS_poQakwsE9Tasu-122">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ZJ5SS_poQakwsE9Tasu-155" value="集装箱信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_ZJ5SS_poQakwsE9Tasu-151">
-          <mxGeometry x="-0.1734" y="-1" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-158" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_ZJ5SS_poQakwsE9Tasu-157">
+          <mxGeometry x="0.406" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-133" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;集装箱信息表&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
