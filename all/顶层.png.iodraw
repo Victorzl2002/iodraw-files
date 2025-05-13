@@ -1375,6 +1375,11 @@
         <mxCell id="LnETDzkhnjoZCmKpsT00-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZJ5SS_poQakwsE9Tasu-185" target="LnETDzkhnjoZCmKpsT00-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LnETDzkhnjoZCmKpsT00-29" value="危险品信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LnETDzkhnjoZCmKpsT00-28">
+          <mxGeometry x="-0.0833" y="3" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-185" value="进入危险品识别系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1555" y="-2960" width="165" height="100" as="geometry" />
         </mxCell>
@@ -1471,6 +1476,21 @@
         </mxCell>
         <mxCell id="LnETDzkhnjoZCmKpsT00-27" value="5.3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1870" y="-2962.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LnETDzkhnjoZCmKpsT00-30" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;危险品识别信息表&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1572.5" y="-2595" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LnETDzkhnjoZCmKpsT00-31" value="D1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1572.5" y="-2580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LnETDzkhnjoZCmKpsT00-32" value="" style="endArrow=none;html=1;rounded=0;exitX=0.258;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LnETDzkhnjoZCmKpsT00-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1615" y="-2545" as="sourcePoint" />
+            <mxPoint x="1615" y="-2595" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1615" y="-2565" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
