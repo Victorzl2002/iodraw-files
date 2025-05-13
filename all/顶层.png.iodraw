@@ -1446,10 +1446,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LnETDzkhnjoZCmKpsT00-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="LnETDzkhnjoZCmKpsT00-20">
+        <mxCell id="LnETDzkhnjoZCmKpsT00-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1640" y="-2680" as="sourcePoint" />
-            <mxPoint x="1690" y="-2730" as="targetPoint" />
+            <mxPoint x="1640" y="-2610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
