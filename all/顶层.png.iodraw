@@ -1420,10 +1420,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LnETDzkhnjoZCmKpsT00-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="LnETDzkhnjoZCmKpsT00-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="LnETDzkhnjoZCmKpsT00-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1610" y="-2860" as="sourcePoint" />
             <mxPoint x="1660" y="-2910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LnETDzkhnjoZCmKpsT00-19" value="检测请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LnETDzkhnjoZCmKpsT00-18">
+          <mxGeometry x="0.1156" y="3" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
