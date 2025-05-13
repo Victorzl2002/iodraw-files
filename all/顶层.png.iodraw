@@ -1470,7 +1470,7 @@
             <mxPoint x="1905" y="-2780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LnETDzkhnjoZCmKpsT00-34" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LnETDzkhnjoZCmKpsT00-33">
+        <mxCell id="LnETDzkhnjoZCmKpsT00-34" value="危险品信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LnETDzkhnjoZCmKpsT00-33">
           <mxGeometry x="-0.077" y="-1" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
