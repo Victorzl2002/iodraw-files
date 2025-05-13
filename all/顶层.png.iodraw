@@ -1417,15 +1417,10 @@
         <mxCell id="LnETDzkhnjoZCmKpsT00-10" value="5.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1610" y="-2785" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LnETDzkhnjoZCmKpsT00-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="LnETDzkhnjoZCmKpsT00-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="-2420" as="sourcePoint" />
-            <mxPoint x="600" y="-2480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LnETDzkhnjoZCmKpsT00-15" value="设备信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LnETDzkhnjoZCmKpsT00-14">
-          <mxGeometry x="0.0889" y="1" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
+            <mxPoint x="1670" y="-2780" as="sourcePoint" />
+            <mxPoint x="1720" y="-2830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
