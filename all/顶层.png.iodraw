@@ -1397,7 +1397,7 @@
         <mxCell id="LnETDzkhnjoZCmKpsT00-4" value="E6&lt;div&gt;硬件设备&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1555" y="-3180" width="165" height="136" as="geometry" />
         </mxCell>
-        <mxCell id="LnETDzkhnjoZCmKpsT00-8" value="进入危险品识别系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LnETDzkhnjoZCmKpsT00-8" value="识别货物危险品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1552.5" y="-2785" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LnETDzkhnjoZCmKpsT00-9" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;elbow=vertical;" edge="1" parent="1" source="LnETDzkhnjoZCmKpsT00-8" target="LnETDzkhnjoZCmKpsT00-8">
@@ -1406,7 +1406,7 @@
             <mxPoint x="1705" y="-2961" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LnETDzkhnjoZCmKpsT00-10" value="5.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LnETDzkhnjoZCmKpsT00-10" value="5.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1602.5" y="-2785" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
