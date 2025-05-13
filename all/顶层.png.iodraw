@@ -1372,19 +1372,6 @@
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-184" value="E1&lt;div&gt;管理员&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1230" y="-2955" width="155" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="LnETDzkhnjoZCmKpsT00-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ZJ5SS_poQakwsE9Tasu-185">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1620" y="-2810" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1620" y="-2785" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LnETDzkhnjoZCmKpsT00-12" value="检请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LnETDzkhnjoZCmKpsT00-11">
-          <mxGeometry x="-0.1511" y="2" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-185" value="进入危险品识别系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1555" y="-2960" width="170" height="100" as="geometry" />
         </mxCell>
@@ -1431,6 +1418,12 @@
         <mxCell id="LnETDzkhnjoZCmKpsT00-17" value="检测结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LnETDzkhnjoZCmKpsT00-16">
           <mxGeometry x="-0.0524" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LnETDzkhnjoZCmKpsT00-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1610" y="-2860" as="sourcePoint" />
+            <mxPoint x="1660" y="-2910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
