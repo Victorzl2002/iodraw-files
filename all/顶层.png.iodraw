@@ -1371,7 +1371,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-184" value="E1&lt;div&gt;管理员&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1230" y="-2955" width="155" height="90" as="geometry" />
+          <mxGeometry x="1400" y="-2955" width="155" height="90" as="geometry" />
         </mxCell>
         <mxCell id="LnETDzkhnjoZCmKpsT00-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZJ5SS_poQakwsE9Tasu-185" target="LnETDzkhnjoZCmKpsT00-25">
           <mxGeometry relative="1" as="geometry" />
@@ -1705,6 +1705,9 @@
               <mxPoint x="777.5" y="-3060" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LnETDzkhnjoZCmKpsT00-128" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2270" y="-2880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
