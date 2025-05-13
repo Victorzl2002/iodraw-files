@@ -1547,7 +1547,7 @@
             <mxPoint x="807.5" y="-3270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LnETDzkhnjoZCmKpsT00-121" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LnETDzkhnjoZCmKpsT00-118">
+        <mxCell id="LnETDzkhnjoZCmKpsT00-121" value="货车计划分配" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LnETDzkhnjoZCmKpsT00-118">
           <mxGeometry x="0.005" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1651,6 +1651,11 @@
         </mxCell>
         <mxCell id="LnETDzkhnjoZCmKpsT00-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LnETDzkhnjoZCmKpsT00-108" target="LnETDzkhnjoZCmKpsT00-81">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LnETDzkhnjoZCmKpsT00-122" value="货车路线规划" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LnETDzkhnjoZCmKpsT00-120">
+          <mxGeometry y="-5" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LnETDzkhnjoZCmKpsT00-108" value="货车计划分配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="-3270" width="170" height="105" as="geometry" />
