@@ -1529,7 +1529,7 @@
         <mxCell id="LnETDzkhnjoZCmKpsT00-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LnETDzkhnjoZCmKpsT00-75" target="LnETDzkhnjoZCmKpsT00-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LnETDzkhnjoZCmKpsT00-74" value="危险品信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LnETDzkhnjoZCmKpsT00-73">
+        <mxCell id="LnETDzkhnjoZCmKpsT00-74" value="货车路线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LnETDzkhnjoZCmKpsT00-73">
           <mxGeometry x="-0.0833" y="3" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
@@ -1619,16 +1619,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LnETDzkhnjoZCmKpsT00-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LnETDzkhnjoZCmKpsT00-95">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1075" y="-3290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LnETDzkhnjoZCmKpsT00-94" value="危险品信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LnETDzkhnjoZCmKpsT00-93">
-          <mxGeometry x="-0.077" y="-1" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LnETDzkhnjoZCmKpsT00-95" value="货车可视化展现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="-3472.5" width="170" height="105" as="geometry" />
         </mxCell>
@@ -1641,30 +1631,10 @@
         <mxCell id="LnETDzkhnjoZCmKpsT00-97" value="6.3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1040" y="-3472.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LnETDzkhnjoZCmKpsT00-98" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;危险品知识库表&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="-3290" width="165" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LnETDzkhnjoZCmKpsT00-99" value="D2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="-3275" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LnETDzkhnjoZCmKpsT00-100" value="" style="endArrow=none;html=1;rounded=0;exitX=0.258;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LnETDzkhnjoZCmKpsT00-98">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1042.5" y="-3240" as="sourcePoint" />
-            <mxPoint x="1042.5" y="-3290" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1042.5" y="-3260" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LnETDzkhnjoZCmKpsT00-101" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1130" y="-3290" as="sourcePoint" />
             <mxPoint x="1130" y="-3365" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LnETDzkhnjoZCmKpsT00-102" value="危险品信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LnETDzkhnjoZCmKpsT00-101">
-          <mxGeometry x="-0.16" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
