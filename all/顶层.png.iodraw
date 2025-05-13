@@ -1534,6 +1534,9 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="LnETDzkhnjoZCmKpsT00-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LnETDzkhnjoZCmKpsT00-75" target="LnETDzkhnjoZCmKpsT00-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LnETDzkhnjoZCmKpsT00-75" value="进入货车货堆子系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="725" y="-3470" width="165" height="100" as="geometry" />
         </mxCell>
@@ -1619,7 +1622,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LnETDzkhnjoZCmKpsT00-95" value="货车可视化展现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LnETDzkhnjoZCmKpsT00-95" value="货车路线可视化展现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="-3575" width="170" height="105" as="geometry" />
         </mxCell>
         <mxCell id="LnETDzkhnjoZCmKpsT00-96" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;elbow=vertical;" edge="1" parent="1" source="LnETDzkhnjoZCmKpsT00-95" target="LnETDzkhnjoZCmKpsT00-95">
