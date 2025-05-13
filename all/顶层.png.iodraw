@@ -1640,6 +1640,11 @@
         <mxCell id="LnETDzkhnjoZCmKpsT00-105" value="6.4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1105" y="-3390" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LnETDzkhnjoZCmKpsT00-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LnETDzkhnjoZCmKpsT00-108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="875" y="-3120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LnETDzkhnjoZCmKpsT00-108" value="货车路线规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="-3295" width="170" height="105" as="geometry" />
         </mxCell>
@@ -1651,9 +1656,6 @@
         </mxCell>
         <mxCell id="LnETDzkhnjoZCmKpsT00-110" value="6.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="-3295" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LnETDzkhnjoZCmKpsT00-111" value="路线规划" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="874.0000000000005" y="-3158.3333333333335" as="geometry" />
         </mxCell>
         <mxCell id="LnETDzkhnjoZCmKpsT00-112" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;货车规划信息表&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="-3115" width="165" height="60" as="geometry" />
