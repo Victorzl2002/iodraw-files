@@ -425,7 +425,12 @@
         <mxCell id="utSsdrOocy7H069JJn_G-128" value="导出模型" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1970" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="utSsdrOocy7H069JJn_G-130" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="utSsdrOocy7H069JJn_G-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="utSsdrOocy7H069JJn_G-130">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2350" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="utSsdrOocy7H069JJn_G-130" value="选择导出格式" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2170" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
