@@ -160,8 +160,14 @@
         <mxCell id="utSsdrOocy7H069JJn_G-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.994;entryY=0.885;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="utSsdrOocy7H069JJn_G-30" target="zkfFHV4jXpPFQw0GAbJ--19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="utSsdrOocy7H069JJn_G-53" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="utSsdrOocy7H069JJn_G-53" value="依赖" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="715" y="168" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="utSsdrOocy7H069JJn_G-54" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="utSsdrOocy7H069JJn_G-55" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="10" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
