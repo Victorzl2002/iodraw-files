@@ -383,11 +383,6 @@
         <mxCell id="utSsdrOocy7H069JJn_G-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="utSsdrOocy7H069JJn_G-112" target="utSsdrOocy7H069JJn_G-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="utSsdrOocy7H069JJn_G-125" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="utSsdrOocy7H069JJn_G-122">
-          <mxGeometry x="-0.075" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="utSsdrOocy7H069JJn_G-112" value="加载模型材质" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1770" y="890" width="120" height="60" as="geometry" />
         </mxCell>
@@ -414,6 +409,9 @@
         </mxCell>
         <mxCell id="utSsdrOocy7H069JJn_G-123" value="保存模型" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1970" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="utSsdrOocy7H069JJn_G-126" value="成功加载" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1825" y="978" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
