@@ -357,11 +357,19 @@
         <mxCell id="utSsdrOocy7H069JJn_G-104" value="模型格式&lt;div&gt;正确&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1695" y="735" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="utSsdrOocy7H069JJn_G-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="utSsdrOocy7H069JJn_G-105">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1530" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="utSsdrOocy7H069JJn_G-105" value="导入报错提示" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1570" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="utSsdrOocy7H069JJn_G-107" value="模型&lt;span style=&quot;background-color: initial;&quot;&gt;格式&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;错误&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1620" y="833" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="utSsdrOocy7H069JJn_G-109" value="重新导入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1465" y="848" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
