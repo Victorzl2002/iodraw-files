@@ -119,7 +119,7 @@
           <mxGeometry y="78" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="utSsdrOocy7H069JJn_G-32" value="+ addModel（model):void&#xa;+ removeModel（id）：void&#xa;+ selectModel（id）：void&#xa;+ renderScene（）：void&#xa;+ clearScene（）：void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="utSsdrOocy7H069JJn_G-28">
-          <mxGeometry y="86" width="160" height="102" as="geometry" />
+          <mxGeometry y="86" width="160" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
