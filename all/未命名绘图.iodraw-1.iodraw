@@ -386,11 +386,11 @@
         <mxCell id="utSsdrOocy7H069JJn_G-114" value="成功渲染" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1830" y="833" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="utSsdrOocy7H069JJn_G-116" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="utSsdrOocy7H069JJn_G-116" value="发出渲染警告" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1970" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="utSsdrOocy7H069JJn_G-118" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1895" y="748" width="50" height="30" as="geometry" />
+        <mxCell id="utSsdrOocy7H069JJn_G-118" value="渲染失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1890" y="750" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
