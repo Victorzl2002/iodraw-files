@@ -244,6 +244,12 @@
             <mxPoint x="1490" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="utSsdrOocy7H069JJn_G-75" value="显示模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1505" y="178" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="utSsdrOocy7H069JJn_G-76" value="加载模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1515" y="128" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
