@@ -206,7 +206,10 @@
           <mxGeometry x="1450" y="18" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="utSsdrOocy7H069JJn_G-64" value="模型对象" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1565" y="8" width="70" height="30" as="geometry" />
+          <mxGeometry x="1565" y="20" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="utSsdrOocy7H069JJn_G-65" value="材质" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1690" y="18" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
