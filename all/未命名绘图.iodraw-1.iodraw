@@ -287,9 +287,12 @@
         </mxCell>
         <mxCell id="utSsdrOocy7H069JJn_G-87" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1390" y="290" as="sourcePoint" />
-            <mxPoint x="1500" y="290" as="targetPoint" />
+            <mxPoint x="1380" y="348" as="sourcePoint" />
+            <mxPoint x="1490" y="348" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="utSsdrOocy7H069JJn_G-88" value="点击保存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1395" y="318" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
