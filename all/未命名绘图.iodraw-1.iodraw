@@ -115,8 +115,11 @@
         <mxCell id="utSsdrOocy7H069JJn_G-32" value="+ save（）：void&#xa;+ export（format）：void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="utSsdrOocy7H069JJn_G-28">
           <mxGeometry y="112" width="160" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="utSsdrOocy7H069JJn_G-36" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="190" width="50" height="30" as="geometry" />
+        <mxCell id="utSsdrOocy7H069JJn_G-36" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="190" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="utSsdrOocy7H069JJn_G-37" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="190" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
