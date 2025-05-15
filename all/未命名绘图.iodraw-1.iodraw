@@ -466,6 +466,12 @@
         <mxCell id="utSsdrOocy7H069JJn_G-141" value="&lt;pre style=&quot;margin: 0cm; font-size: 10.5pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; line-height: 21px;&quot;&gt;&lt;span style=&quot;font-size: 18px; line-height: 44px; font-family: 楷体_GB2312;&quot;&gt;基于&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;Electron&lt;/span&gt;的&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;3D&lt;/span&gt;编辑器的设计与实现&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1615" y="1310" width="335" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="utSsdrOocy7H069JJn_G-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1492.47" y="1422.0588235294117" as="sourcePoint" />
+            <mxPoint x="1769.9994117647059" y="1225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="utSsdrOocy7H069JJn_G-142" value="模&lt;div&gt;型&lt;/div&gt;&lt;div&gt;导&lt;/div&gt;&lt;div&gt;入&lt;/div&gt;&lt;div&gt;模&lt;/div&gt;&lt;div&gt;块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1450" y="1454" width="55" height="226" as="geometry" />
         </mxCell>
