@@ -118,8 +118,11 @@
         <mxCell id="utSsdrOocy7H069JJn_G-34" value="- models ： ModelObject" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="utSsdrOocy7H069JJn_G-28">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="utSsdrOocy7H069JJn_G-35" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="utSsdrOocy7H069JJn_G-28">
+          <mxGeometry y="104" width="160" height="8" as="geometry" />
+        </mxCell>
         <mxCell id="utSsdrOocy7H069JJn_G-32" value="+ addModel（model):void&#xa;+ removeModel（id）：void&#xa;+ selectModel（id）：void&#xa;+ renderScene（）：void&#xa;+ clearScene（）：void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="utSsdrOocy7H069JJn_G-28">
-          <mxGeometry y="104" width="160" height="100" as="geometry" />
+          <mxGeometry y="112" width="160" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
