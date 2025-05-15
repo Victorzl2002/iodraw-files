@@ -401,8 +401,14 @@
             <mxPoint x="1530" y="690.9899999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="utSsdrOocy7H069JJn_G-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="utSsdrOocy7H069JJn_G-121" target="utSsdrOocy7H069JJn_G-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="utSsdrOocy7H069JJn_G-121" value="编辑模型" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1770" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="utSsdrOocy7H069JJn_G-123" value="报错模型" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1970" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
