@@ -466,9 +466,6 @@
         <mxCell id="utSsdrOocy7H069JJn_G-139" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2120" y="1370" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="utSsdrOocy7H069JJn_G-140" value="" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2510" y="1090" width="120" height="100" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
