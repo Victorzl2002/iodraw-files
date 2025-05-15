@@ -413,6 +413,9 @@
         <mxCell id="utSsdrOocy7H069JJn_G-126" value="成功加载" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1825" y="978" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="utSsdrOocy7H069JJn_G-127" value="更新模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1895" y="1038" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
