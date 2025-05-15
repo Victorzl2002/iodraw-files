@@ -109,14 +109,14 @@
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="utSsdrOocy7H069JJn_G-30" value="- savePath ：string" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="utSsdrOocy7H069JJn_G-28">
+        <mxCell id="utSsdrOocy7H069JJn_G-29" value="- name ：string" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="utSsdrOocy7H069JJn_G-28">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="utSsdrOocy7H069JJn_G-29" value="- name ：string" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="utSsdrOocy7H069JJn_G-28">
+        <mxCell id="utSsdrOocy7H069JJn_G-30" value="- savePath ：string" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="utSsdrOocy7H069JJn_G-28">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="utSsdrOocy7H069JJn_G-31" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="utSsdrOocy7H069JJn_G-28">
-          <mxGeometry y="78" width="160" height="8" as="geometry" />
+        <mxCell id="utSsdrOocy7H069JJn_G-34" value="- savePath ：string" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="utSsdrOocy7H069JJn_G-28">
+          <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="utSsdrOocy7H069JJn_G-32" value="+ addModel（model):void&#xa;+ removeModel（id）：void&#xa;+ selectModel（id）：void&#xa;+ renderScene（）：void&#xa;+ clearScene（）：void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="730" width="160" height="24" as="geometry" />
