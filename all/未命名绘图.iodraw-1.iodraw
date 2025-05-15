@@ -463,6 +463,9 @@
         <mxCell id="utSsdrOocy7H069JJn_G-135" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2385" y="1190" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="utSsdrOocy7H069JJn_G-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="utSsdrOocy7H069JJn_G-141" target="utSsdrOocy7H069JJn_G-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="utSsdrOocy7H069JJn_G-141" value="&lt;pre style=&quot;margin: 0cm; font-size: 10.5pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; line-height: 21px;&quot;&gt;&lt;span style=&quot;font-size: 18px; line-height: 44px; font-family: 楷体_GB2312;&quot;&gt;基于&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;Electron&lt;/span&gt;的&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;3D&lt;/span&gt;编辑器的设计与实现&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1615" y="1310" width="335" height="60" as="geometry" />
         </mxCell>
