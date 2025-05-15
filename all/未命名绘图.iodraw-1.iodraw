@@ -351,6 +351,11 @@
         <mxCell id="utSsdrOocy7H069JJn_G-101" value="导入模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1570" y="750" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="utSsdrOocy7H069JJn_G-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="utSsdrOocy7H069JJn_G-102">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1830" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="utSsdrOocy7H069JJn_G-102" value="渲染模型" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1770" y="750" width="120" height="60" as="geometry" />
         </mxCell>
