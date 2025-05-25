@@ -484,7 +484,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="B2VDj5z6qxlOAoy0x4SK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="utSsdrOocy7H069JJn_G-141" target="utSsdrOocy7H069JJn_G-147">
+        <mxCell id="B2VDj5z6qxlOAoy0x4SK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="utSsdrOocy7H069JJn_G-141" target="utSsdrOocy7H069JJn_G-147">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="utSsdrOocy7H069JJn_G-141" value="&lt;pre style=&quot;margin: 0cm; font-size: 18px; font-family: &amp;quot;Times New Roman&amp;quot;, serif; line-height: 21px;&quot;&gt;&lt;span style=&quot;font-size: 18px; line-height: 44px; font-family: 楷体_GB2312;&quot;&gt;基于&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 18px;&quot;&gt;Electron&lt;/span&gt;的&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 18px;&quot;&gt;3D&lt;/span&gt;编辑器的设计与实现&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
