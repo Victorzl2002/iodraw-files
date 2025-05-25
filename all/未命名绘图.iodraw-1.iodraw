@@ -128,7 +128,7 @@
           <mxGeometry x="480" y="190" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="utSsdrOocy7H069JJn_G-38" value="-场景管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="369" y="240" width="90" height="30" as="geometry" />
+          <mxGeometry x="350" y="240" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="utSsdrOocy7H069JJn_G-39" value="-模型对象" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="435" y="240" width="90" height="30" as="geometry" />
