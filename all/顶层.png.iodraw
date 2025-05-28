@@ -1739,6 +1739,9 @@
         <mxCell id="4JiiHxqERORHDsRlsb45-10" value="货主用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2845" y="-3520" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4JiiHxqERORHDsRlsb45-11" value="创建" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2830" y="-3595" width="130" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
