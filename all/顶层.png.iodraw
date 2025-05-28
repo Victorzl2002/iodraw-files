@@ -2307,8 +2307,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4JiiHxqERORHDsRlsb45-164" value="发布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4JiiHxqERORHDsRlsb45-164" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2470" y="-3715" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4JiiHxqERORHDsRlsb45-165" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="4JiiHxqERORHDsRlsb45-96">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2400" y="-3710" as="sourcePoint" />
+            <mxPoint x="2435" y="-3800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4JiiHxqERORHDsRlsb45-166" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4JiiHxqERORHDsRlsb45-165">
+          <mxGeometry x="0.2116" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
