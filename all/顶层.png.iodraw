@@ -1872,7 +1872,7 @@
         <mxCell id="4JiiHxqERORHDsRlsb45-49" value="公司地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3425" y="-3650" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4JiiHxqERORHDsRlsb45-50" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4JiiHxqERORHDsRlsb45-50" value="公司船舶数量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3620" y="-3560" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-51" value="船运公司ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
