@@ -1725,10 +1725,13 @@
           <mxGeometry x="2930" y="-3820" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-5" value="权限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3010" y="-3780" width="80" height="50" as="geometry" />
+          <mxGeometry x="3030" y="-3780" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-6" value="身份证" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2630" y="-3720" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4JiiHxqERORHDsRlsb45-7" value="权限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="-3720" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
