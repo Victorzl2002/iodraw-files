@@ -1941,7 +1941,7 @@
         <mxCell id="4JiiHxqERORHDsRlsb45-72" value="集装箱位置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2980" y="-2800" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4JiiHxqERORHDsRlsb45-73" value="集装箱位置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4JiiHxqERORHDsRlsb45-73" value="集装箱状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2855" y="-2785" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
