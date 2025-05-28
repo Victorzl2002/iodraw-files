@@ -2190,7 +2190,7 @@
             <mxPoint x="3560" y="-3435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4JiiHxqERORHDsRlsb45-141" value="创建" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4JiiHxqERORHDsRlsb45-141" value="承运" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2450" y="-3485" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-142" value="创建" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2202,7 +2202,7 @@
             <mxPoint x="2370" y="-3510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4JiiHxqERORHDsRlsb45-145" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4JiiHxqERORHDsRlsb45-143">
+        <mxCell id="4JiiHxqERORHDsRlsb45-145" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4JiiHxqERORHDsRlsb45-143">
           <mxGeometry x="-0.0095" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -2211,6 +2211,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2320" y="-3450" as="sourcePoint" />
             <mxPoint x="2460" y="-3450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4JiiHxqERORHDsRlsb45-146" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4JiiHxqERORHDsRlsb45-144">
+          <mxGeometry x="-0.0491" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
