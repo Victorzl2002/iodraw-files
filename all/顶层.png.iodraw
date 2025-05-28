@@ -1780,7 +1780,7 @@
           <mxGeometry x="2710" y="-3385" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-23" value="交易备注" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3000" y="-3378" width="80" height="50" as="geometry" />
+          <mxGeometry x="2980" y="-3355" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-25" value="订单编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2630" y="-3463" width="80" height="50" as="geometry" />
@@ -1789,7 +1789,7 @@
           <mxGeometry x="3070" y="-3463" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-27" value="订单状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2855" y="-3335" width="80" height="50" as="geometry" />
+          <mxGeometry x="2790" y="-3355" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-34" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="4JiiHxqERORHDsRlsb45-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1993,7 +1993,7 @@
             <mxPoint x="2865" y="-3075" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4JiiHxqERORHDsRlsb45-84" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4JiiHxqERORHDsRlsb45-61" target="4JiiHxqERORHDsRlsb45-59">
+        <mxCell id="4JiiHxqERORHDsRlsb45-84" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4JiiHxqERORHDsRlsb45-61" target="4JiiHxqERORHDsRlsb45-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2750" y="-3030" as="sourcePoint" />
             <mxPoint x="2875" y="-3065" as="targetPoint" />
