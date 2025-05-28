@@ -1751,7 +1751,7 @@
           <mxGeometry x="3757" y="-3917.5" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-17" value="港口ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3572" y="-3782.5" width="80" height="50" as="geometry" />
+          <mxGeometry x="3472" y="-3810" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-19" value="港口设施描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3685" y="-4027" width="80" height="50" as="geometry" />
@@ -2331,6 +2331,9 @@
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-177" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4100" y="-3697" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4JiiHxqERORHDsRlsb45-178" value="运送" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3592" y="-3732.5" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
