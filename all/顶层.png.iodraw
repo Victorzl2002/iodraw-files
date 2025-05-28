@@ -1938,7 +1938,7 @@
           <mxGeometry x="3500" y="-3118.53" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-69" value="集装箱ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3040" y="-3113.53" width="80" height="50" as="geometry" />
+          <mxGeometry x="3410" y="-3290" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-70" value="容积" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3275" y="-3305" width="80" height="50" as="geometry" />
@@ -2006,7 +2006,7 @@
             <mxPoint x="3335" y="-3268.53" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4JiiHxqERORHDsRlsb45-89" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4JiiHxqERORHDsRlsb45-69" target="4JiiHxqERORHDsRlsb45-65">
+        <mxCell id="4JiiHxqERORHDsRlsb45-89" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4JiiHxqERORHDsRlsb45-69" target="4JiiHxqERORHDsRlsb45-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3220" y="-3223.53" as="sourcePoint" />
             <mxPoint x="3345" y="-3258.53" as="targetPoint" />
@@ -2082,7 +2082,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-107" value="运送" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2830" y="-3285" width="130" height="50" as="geometry" />
+          <mxGeometry x="2830" y="-3255" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-113" value="容纳" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2845" y="-3128.25" width="130" height="50" as="geometry" />
