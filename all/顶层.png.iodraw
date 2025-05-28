@@ -2283,7 +2283,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-158" value="承运" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2330" y="-3670" width="130" height="50" as="geometry" />
+          <mxGeometry x="2380" y="-3740" width="80" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
