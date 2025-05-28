@@ -2333,7 +2333,7 @@
           <mxGeometry x="4100" y="-3697" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-179" value="存放" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3610" y="-3760" width="50" height="50" as="geometry" />
+          <mxGeometry x="3610" y="-3760" width="50" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
