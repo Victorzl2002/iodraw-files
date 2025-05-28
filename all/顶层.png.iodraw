@@ -1950,8 +1950,8 @@
         <mxCell id="4JiiHxqERORHDsRlsb45-75" value="图片" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2640" y="-3085" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4JiiHxqERORHDsRlsb45-76" value="创建" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2830" y="-3300" width="130" height="50" as="geometry" />
+        <mxCell id="4JiiHxqERORHDsRlsb45-76" value="容纳" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2830" y="-3012.5" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
