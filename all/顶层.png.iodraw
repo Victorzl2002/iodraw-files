@@ -2112,7 +2112,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4JiiHxqERORHDsRlsb45-121" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4JiiHxqERORHDsRlsb45-107" target="4JiiHxqERORHDsRlsb45-20">
+        <mxCell id="4JiiHxqERORHDsRlsb45-121" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4JiiHxqERORHDsRlsb45-107" target="4JiiHxqERORHDsRlsb45-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2800" y="-3230" as="sourcePoint" />
             <mxPoint x="2850" y="-3280" as="targetPoint" />
@@ -2121,6 +2121,15 @@
         <mxCell id="4JiiHxqERORHDsRlsb45-122" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4JiiHxqERORHDsRlsb45-121">
           <mxGeometry x="-0.2456" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4JiiHxqERORHDsRlsb45-124" value="运送" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2970" y="-3225" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4JiiHxqERORHDsRlsb45-125" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2850" y="-3390" as="sourcePoint" />
+            <mxPoint x="2900" y="-3440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
