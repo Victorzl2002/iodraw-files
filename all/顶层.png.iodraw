@@ -1763,11 +1763,8 @@
         <mxCell id="4JiiHxqERORHDsRlsb45-19" value="联系方式" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3425" y="-3845" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4JiiHxqERORHDsRlsb45-20" value="货主用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4JiiHxqERORHDsRlsb45-20" value="订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2835" y="-3255" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="4JiiHxqERORHDsRlsb45-21" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2680" y="-3320" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-22" value="账号&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E7%94%A8%E6%88%B7ID%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222700%22%20y%3D%22-3790%22%20width%3D%2280%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2755" y="-3360" width="80" height="50" as="geometry" />
@@ -1778,7 +1775,7 @@
         <mxCell id="4JiiHxqERORHDsRlsb45-24" value="权限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3020" y="-3320" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4JiiHxqERORHDsRlsb45-25" value="身份证号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4JiiHxqERORHDsRlsb45-25" value="订单编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2620" y="-3260" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-26" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
