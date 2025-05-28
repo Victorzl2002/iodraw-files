@@ -1864,22 +1864,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-47" value="船运公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3605" y="-3710" width="100" height="40" as="geometry" />
+          <mxGeometry x="2290" y="-3534.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-48" value="船运公司名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3480" y="-3810" width="80" height="50" as="geometry" />
+          <mxGeometry x="2165" y="-3634.5" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-49" value="公司地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3605" y="-3830" width="80" height="50" as="geometry" />
+          <mxGeometry x="2290" y="-3654.5" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-50" value="公司船舶数量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3800" y="-3740" width="80" height="50" as="geometry" />
+          <mxGeometry x="2485" y="-3564.5" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-51" value="船运公司ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3430" y="-3740" width="80" height="50" as="geometry" />
+          <mxGeometry x="2115" y="-3564.5" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-52" value="联系方式" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3730" y="-3810" width="80" height="50" as="geometry" />
+          <mxGeometry x="2415" y="-3634.5" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-53" value="货代公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4275" y="-3155" width="100" height="40" as="geometry" />
