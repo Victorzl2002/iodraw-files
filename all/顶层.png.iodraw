@@ -1908,13 +1908,13 @@
         <mxCell id="4JiiHxqERORHDsRlsb45-61" value="货物类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2815" y="-3210" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4JiiHxqERORHDsRlsb45-62" value="公司船舶数量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4JiiHxqERORHDsRlsb45-62" value="体积" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3010" y="-3120" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-63" value="货物ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2640" y="-3120" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4JiiHxqERORHDsRlsb45-64" value="联系方式" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4JiiHxqERORHDsRlsb45-64" value="重量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2940" y="-3190" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-65" value="集装箱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1943,6 +1943,9 @@
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-73" value="集装箱状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2800" y="-2785" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4JiiHxqERORHDsRlsb45-74" value="体积" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="-3060" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
