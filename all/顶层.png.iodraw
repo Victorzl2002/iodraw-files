@@ -2282,8 +2282,14 @@
             <mxPoint x="2435" y="-3770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4JiiHxqERORHDsRlsb45-158" value="承运" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2380" y="-3740" width="80" height="120" as="geometry" />
+        <mxCell id="4JiiHxqERORHDsRlsb45-158" value="发布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2350" y="-3720" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4JiiHxqERORHDsRlsb45-159" value="" style="endArrow=none;html=1;rounded=0;exitX=0.892;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4JiiHxqERORHDsRlsb45-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2330" y="-3530" as="sourcePoint" />
+            <mxPoint x="2380" y="-3580" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
