@@ -2285,10 +2285,16 @@
         <mxCell id="4JiiHxqERORHDsRlsb45-158" value="发布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2350" y="-3720" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4JiiHxqERORHDsRlsb45-159" value="" style="endArrow=none;html=1;rounded=0;exitX=0.892;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4JiiHxqERORHDsRlsb45-47">
+        <mxCell id="4JiiHxqERORHDsRlsb45-159" value="" style="endArrow=none;html=1;rounded=0;exitX=0.892;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4JiiHxqERORHDsRlsb45-47" target="4JiiHxqERORHDsRlsb45-158">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2330" y="-3530" as="sourcePoint" />
             <mxPoint x="2380" y="-3580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4JiiHxqERORHDsRlsb45-160" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4JiiHxqERORHDsRlsb45-158" target="4JiiHxqERORHDsRlsb45-96">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2290" y="-3710" as="sourcePoint" />
+            <mxPoint x="2340" y="-3760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
