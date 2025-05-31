@@ -2354,6 +2354,15 @@
         <mxCell id="uUhz2Bhf401BR7k4yH37-1" value="船运计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4270" y="-4246.09" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="uUhz2Bhf401BR7k4yH37-2" value="货主用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4600" y="-4206.09" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uUhz2Bhf401BR7k4yH37-3" value="订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4220" y="-3977" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uUhz2Bhf401BR7k4yH37-4" value="港口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4530" y="-3902.5" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
