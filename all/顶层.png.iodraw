@@ -2355,22 +2355,22 @@
           <mxGeometry x="4270" y="-4246.09" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uUhz2Bhf401BR7k4yH37-2" value="货主用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4600" y="-4206.09" width="100" height="40" as="geometry" />
+          <mxGeometry x="4460" y="-4160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uUhz2Bhf401BR7k4yH37-3" value="订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4220" y="-3977" width="100" height="40" as="geometry" />
+          <mxGeometry x="4110" y="-3997.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uUhz2Bhf401BR7k4yH37-4" value="港口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4550" y="-3977" width="100" height="40" as="geometry" />
+          <mxGeometry x="4700" y="-4087.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uUhz2Bhf401BR7k4yH37-5" value="集装箱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4460" y="-3692.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="4510" y="-3687.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uUhz2Bhf401BR7k4yH37-6" value="货物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4270" y="-3531.03" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uUhz2Bhf401BR7k4yH37-7" value="船运公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4650" y="-3590.75" width="100" height="40" as="geometry" />
+          <mxGeometry x="4230" y="-3877.5" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
