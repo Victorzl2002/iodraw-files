@@ -2363,6 +2363,15 @@
         <mxCell id="uUhz2Bhf401BR7k4yH37-4" value="港口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4530" y="-3902.5" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="uUhz2Bhf401BR7k4yH37-5" value="集装箱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4460" y="-3692.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uUhz2Bhf401BR7k4yH37-6" value="货物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4270" y="-3531.03" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uUhz2Bhf401BR7k4yH37-7" value="船运公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4650" y="-3590.75" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
