@@ -2443,10 +2443,10 @@
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-17" value="承载" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4490" y="-3907.5" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9dFIEqQXWtUKdAPhjkW0-18" value="承载" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9dFIEqQXWtUKdAPhjkW0-18" value="装载" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4635" y="-3907.5" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9dFIEqQXWtUKdAPhjkW0-19" value="承载" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9dFIEqQXWtUKdAPhjkW0-19" value="运输" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4780" y="-3907.5" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
