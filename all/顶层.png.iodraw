@@ -2705,10 +2705,10 @@
           <mxGeometry x="5360" y="-3782.5" width="100" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-83" value="货物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5660" y="-3780" width="100" height="40" as="geometry" />
+          <mxGeometry x="5830" y="-3771.25" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-86" value="港口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5550" y="-3602.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="5580" y="-3990.5" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
