@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="PyJA292_OCroEebgrFo9">
-    <mxGraphModel dx="20740" dy="16206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2963" dy="6323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2351,34 +2351,34 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uUhz2Bhf401BR7k4yH37-1" value="船运计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uUhz2Bhf401BR7k4yH37-1" value="船运计划" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4270" y="-4246.09" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uUhz2Bhf401BR7k4yH37-2" value="货主用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uUhz2Bhf401BR7k4yH37-2" value="货主用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4460" y="-4160" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uUhz2Bhf401BR7k4yH37-3" value="订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uUhz2Bhf401BR7k4yH37-3" value="订单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4250" y="-3990" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uUhz2Bhf401BR7k4yH37-4" value="港口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uUhz2Bhf401BR7k4yH37-4" value="港口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4700" y="-4087.5" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uUhz2Bhf401BR7k4yH37-5" value="集装箱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uUhz2Bhf401BR7k4yH37-5" value="集装箱" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4510" y="-3687.5" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uUhz2Bhf401BR7k4yH37-6" value="货物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uUhz2Bhf401BR7k4yH37-6" value="货物" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4270" y="-3531.03" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uUhz2Bhf401BR7k4yH37-7" value="船运公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uUhz2Bhf401BR7k4yH37-7" value="船运公司" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4260" y="-3877.5" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uUhz2Bhf401BR7k4yH37-8" value="货代公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uUhz2Bhf401BR7k4yH37-8" value="货代公司" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4440" y="-3880" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uUhz2Bhf401BR7k4yH37-9" value="硬件终端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uUhz2Bhf401BR7k4yH37-9" value="硬件终端" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4620" y="-3880" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uUhz2Bhf401BR7k4yH37-10" value="货物分配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uUhz2Bhf401BR7k4yH37-10" value="货物分配" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4260" y="-3777.5" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
