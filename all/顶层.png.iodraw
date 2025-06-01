@@ -2788,7 +2788,7 @@
             <mxPoint x="6055" y="-3894.7799999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9dFIEqQXWtUKdAPhjkW0-109" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="9dFIEqQXWtUKdAPhjkW0-93">
+        <mxCell id="9dFIEqQXWtUKdAPhjkW0-109" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="9dFIEqQXWtUKdAPhjkW0-93" source="9dFIEqQXWtUKdAPhjkW0-146">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="6805" y="-4101.03" as="sourcePoint" />
             <mxPoint x="6825" y="-4115.06" as="targetPoint" />
@@ -2968,8 +2968,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9dFIEqQXWtUKdAPhjkW0-146" value="集装箱ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6755" y="-4160" width="80" height="50" as="geometry" />
+        <mxCell id="9dFIEqQXWtUKdAPhjkW0-146" value="容积" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6765" y="-4166.53" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
