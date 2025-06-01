@@ -3239,19 +3239,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-214" value="终端编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5659.999999999999" y="-2639.9999999999995" width="80" height="50" as="geometry" />
+          <mxGeometry x="5649.999999999999" y="-2639.9999999999995" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-215" value="终端类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5599.999999999999" y="-2824.0599999999995" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-216" value="终端位置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5859.999999999999" y="-2639.9999999999995" width="80" height="50" as="geometry" />
+          <mxGeometry x="5774.999999999999" y="-2629.9999999999995" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-217" value="终端状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5609.999999999999" y="-2724.9999999999995" width="80" height="50" as="geometry" />
+          <mxGeometry x="5619.999999999999" y="-2734.9999999999995" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-218" value="安装日期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5929.999999999999" y="-2757.4999999999995" width="80" height="50" as="geometry" />
+          <mxGeometry x="5899.999999999999" y="-2629.9999999999995" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
