@@ -3206,12 +3206,12 @@
           <mxGeometry x="5579.999999999999" y="-3229.9999999999995" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-206" value="货车类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5739.999999999999" y="-3299.9999999999995" width="80" height="50" as="geometry" />
+          <mxGeometry x="5739.999999999999" y="-3309.9999999999995" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-207" value="货车状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5879.999999999999" y="-3269.9999999999995" width="80" height="50" as="geometry" />
+          <mxGeometry x="5899.999999999999" y="-3269.9999999999995" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9dFIEqQXWtUKdAPhjkW0-208" value="货车状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9dFIEqQXWtUKdAPhjkW0-208" value="车辆图片" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5629.999999999999" y="-3129.9999999999995" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
