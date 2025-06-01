@@ -3323,8 +3323,14 @@
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-234" value="纬度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6274.999999999999" y="-2639.9999999999995" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9dFIEqQXWtUKdAPhjkW0-235" value="温度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6595.999999999999" y="-2824.9999999999995" width="80" height="50" as="geometry" />
+        <mxCell id="9dFIEqQXWtUKdAPhjkW0-235" value="监测时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6559.999999999999" y="-2709.9999999999995" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9dFIEqQXWtUKdAPhjkW0-236" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="9dFIEqQXWtUKdAPhjkW0-224">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6160" y="-2590" as="sourcePoint" />
+            <mxPoint x="6210" y="-2640" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
