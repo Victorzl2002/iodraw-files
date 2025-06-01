@@ -2586,6 +2586,24 @@
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-49" value="承载" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4980" y="-3900" width="130" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="9dFIEqQXWtUKdAPhjkW0-50" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9dFIEqQXWtUKdAPhjkW0-49" target="uUhz2Bhf401BR7k4yH37-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5060" y="-3870" as="sourcePoint" />
+            <mxPoint x="5110" y="-3920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9dFIEqQXWtUKdAPhjkW0-52" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5065" y="-3886" as="sourcePoint" />
+            <mxPoint x="5110" y="-3980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9dFIEqQXWtUKdAPhjkW0-53" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="9dFIEqQXWtUKdAPhjkW0-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5075" y="-3876" as="sourcePoint" />
+            <mxPoint x="5120" y="-3970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
