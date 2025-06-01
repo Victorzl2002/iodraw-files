@@ -2364,7 +2364,7 @@
           <mxGeometry x="4650" y="-4030.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uUhz2Bhf401BR7k4yH37-4" value="港口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4862" y="-3972" width="100" height="40" as="geometry" />
+          <mxGeometry x="5050" y="-4030.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uUhz2Bhf401BR7k4yH37-5" value="集装箱" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4510" y="-3687.5" width="100" height="40" as="geometry" />
