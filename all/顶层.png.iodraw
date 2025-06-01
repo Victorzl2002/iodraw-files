@@ -3212,7 +3212,7 @@
           <mxGeometry x="5899.999999999999" y="-3269.9999999999995" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-208" value="车辆图片" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5599.999999999999" y="-3119.9999999999995" width="80" height="50" as="geometry" />
+          <mxGeometry x="5579.999999999999" y="-3109.9999999999995" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-209" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9dFIEqQXWtUKdAPhjkW0-205" target="9dFIEqQXWtUKdAPhjkW0-189">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3224,6 +3224,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5670" y="-3195" as="sourcePoint" />
             <mxPoint x="5765" y="-3140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9dFIEqQXWtUKdAPhjkW0-212" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9dFIEqQXWtUKdAPhjkW0-189" target="9dFIEqQXWtUKdAPhjkW0-206">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5680" y="-3185" as="sourcePoint" />
+            <mxPoint x="5775" y="-3130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9dFIEqQXWtUKdAPhjkW0-213" value="" style="endArrow=none;html=1;rounded=0;entryX=0.382;entryY=1.051;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" target="9dFIEqQXWtUKdAPhjkW0-207">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5690" y="-3175" as="sourcePoint" />
+            <mxPoint x="5785" y="-3120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
