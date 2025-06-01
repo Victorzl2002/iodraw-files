@@ -3177,6 +3177,20 @@
             <mxPoint x="6120" y="-2930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9dFIEqQXWtUKdAPhjkW0-200" value="监测" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6000" y="-2922" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9dFIEqQXWtUKdAPhjkW0-201" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9dFIEqQXWtUKdAPhjkW0-200" target="9dFIEqQXWtUKdAPhjkW0-188">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6010" y="-3044" as="sourcePoint" />
+            <mxPoint x="5865" y="-3140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9dFIEqQXWtUKdAPhjkW0-202" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9dFIEqQXWtUKdAPhjkW0-201">
+          <mxGeometry x="0.0313" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
