@@ -3311,14 +3311,17 @@
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-230" value="监测ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6525.999999999999" y="-2934.9999999999995" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9dFIEqQXWtUKdAPhjkW0-231" value="监测ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9dFIEqQXWtUKdAPhjkW0-231" value="温度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6535.999999999999" y="-2857.4999999999995" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-232" value="监测ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6545.999999999999" y="-2774.0599999999995" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9dFIEqQXWtUKdAPhjkW0-233" value="监测ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9dFIEqQXWtUKdAPhjkW0-233" value="经度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6274.999999999999" y="-2639.9999999999995" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9dFIEqQXWtUKdAPhjkW0-234" value="纬度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6401.739999999999" y="-2639.9999999999995" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
