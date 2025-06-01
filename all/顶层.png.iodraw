@@ -3049,7 +3049,7 @@
           <mxGeometry x="6426" y="-4940" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-168" value="集装箱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6259.48" y="-2989.9999999999995" width="100" height="40" as="geometry" />
+          <mxGeometry x="6259.48" y="-2994.9999999999995" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-169" value="集装箱类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6159.389999999999" y="-2863.53" width="80" height="50" as="geometry" />
@@ -3122,9 +3122,6 @@
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-186" value="容积" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6264.389999999999" y="-3169.9999999999995" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="9dFIEqQXWtUKdAPhjkW0-187" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="6247.640786470969" y="-2776.4311492321076" as="geometry" />
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-188" value="硬件终端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5755" y="-2814.06" width="100" height="40" as="geometry" />
@@ -3282,6 +3279,9 @@
             <mxPoint x="5795" y="-2754" as="sourcePoint" />
             <mxPoint x="5698" y="-2853" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9dFIEqQXWtUKdAPhjkW0-224" value="硬件终端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6289.39" y="-2625" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
