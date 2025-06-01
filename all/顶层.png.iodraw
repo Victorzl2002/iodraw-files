@@ -2701,20 +2701,17 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9dFIEqQXWtUKdAPhjkW0-81" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5550" y="-3990" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-82" value="集装箱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5358" y="-3746.32" width="100" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-83" value="货物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5570" y="-3746.32" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9dFIEqQXWtUKdAPhjkW0-84" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="5406" y="-3781.6141176470587" as="geometry" />
-        </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-85" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="5407" y="-3682.4964705882353" as="geometry" />
+        </mxCell>
+        <mxCell id="9dFIEqQXWtUKdAPhjkW0-86" value="港口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5550" y="-3602.5" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
