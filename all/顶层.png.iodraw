@@ -3191,6 +3191,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9dFIEqQXWtUKdAPhjkW0-203" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9dFIEqQXWtUKdAPhjkW0-200" target="9dFIEqQXWtUKdAPhjkW0-168">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6010" y="-2887" as="sourcePoint" />
+            <mxPoint x="5865" y="-2784" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9dFIEqQXWtUKdAPhjkW0-204" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9dFIEqQXWtUKdAPhjkW0-203">
+          <mxGeometry x="0.0313" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9dFIEqQXWtUKdAPhjkW0-205" value="容积" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6274.389999999999" y="-3159.9999999999995" width="80" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
