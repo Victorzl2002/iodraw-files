@@ -663,9 +663,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QseufgcnjV-5NwnC1HGA-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.391;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" source="QseufgcnjV-5NwnC1HGA-1">
+        <mxCell id="QseufgcnjV-5NwnC1HGA-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.391;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="-170" as="sourcePoint" />
+            <mxPoint x="640" y="-170" as="sourcePoint" />
             <mxPoint x="780" y="-170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -676,7 +676,7 @@
         </mxCell>
         <mxCell id="QseufgcnjV-5NwnC1HGA-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.391;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="-130" as="sourcePoint" />
+            <mxPoint x="630" y="-130" as="sourcePoint" />
             <mxPoint x="780" y="-130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
