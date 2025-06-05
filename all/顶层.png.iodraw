@@ -3046,7 +3046,7 @@
           <mxGeometry x="6256.089999999999" y="-3144.0299999999997" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-169" value="集装箱类型" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="6155.999999999999" y="-3012.5600000000004" width="80" height="50" as="geometry" />
+          <mxGeometry x="6130" y="-3012.56" width="106" height="62.56" as="geometry" />
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-170" value="重量" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="6516" y="-3180" width="84" height="52.44" as="geometry" />
@@ -3061,10 +3061,10 @@
           <mxGeometry x="6426" y="-3062.56" width="94" height="52.56" as="geometry" />
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-174" value="集装箱位置" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="6365.999999999999" y="-3004.0299999999997" width="80" height="50" as="geometry" />
+          <mxGeometry x="6366" y="-3004.03" width="94" height="54.03" as="geometry" />
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-175" value="集装箱状态" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="6285.999999999999" y="-2999.9999999999995" width="80" height="50" as="geometry" />
+          <mxGeometry x="6260" y="-3000" width="106" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-176" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="9dFIEqQXWtUKdAPhjkW0-186" target="9dFIEqQXWtUKdAPhjkW0-168" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
