@@ -2705,10 +2705,10 @@
           <mxGeometry x="5975" y="-3984.7799999999997" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-88" value="货物名称" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="5850" y="-4084.7799999999997" width="80" height="50" as="geometry" />
+          <mxGeometry x="5840" y="-4090" width="90" height="55.22" as="geometry" />
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-89" value="货物类型" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="5870" y="-3899.7799999999997" width="80" height="50" as="geometry" />
+          <mxGeometry x="5860" y="-3899.78" width="90" height="49.78" as="geometry" />
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-90" value="体积" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="6100" y="-3899.7799999999997" width="80" height="50" as="geometry" />
@@ -2744,7 +2744,7 @@
           <mxGeometry x="6770" y="-3857.4999999999995" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-101" value="状态" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="5960" y="-3867.5000000000005" width="80" height="50" as="geometry" />
+          <mxGeometry x="5950" y="-3867.5" width="90" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="9dFIEqQXWtUKdAPhjkW0-102" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.985;exitY=0.344;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=20;" parent="1" source="9dFIEqQXWtUKdAPhjkW0-149" target="9dFIEqQXWtUKdAPhjkW0-87" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
