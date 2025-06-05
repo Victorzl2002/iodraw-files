@@ -1396,6 +1396,10 @@
         <mxCell id="LnETDzkhnjoZCmKpsT00-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="LnETDzkhnjoZCmKpsT00-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1792.5" y="-2980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1792" y="-2970" />
+              <mxPoint x="1792" y="-2970" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LnETDzkhnjoZCmKpsT00-6" value="货物x光图片" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="LnETDzkhnjoZCmKpsT00-5" vertex="1" connectable="0">
@@ -1478,9 +1482,6 @@
         </mxCell>
         <mxCell id="LnETDzkhnjoZCmKpsT00-25" value="危险品知识库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="2025" y="-2972.5" width="170" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="D7N9BfVhg-vGijWHmY6L-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LnETDzkhnjoZCmKpsT00-30" target="D7N9BfVhg-vGijWHmY6L-1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LnETDzkhnjoZCmKpsT00-30" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;危险品知识库表&lt;div style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="2035" y="-2750" width="165" height="60" as="geometry" />
@@ -3370,9 +3371,6 @@
             <mxPoint x="2027.5" y="-2950" as="sourcePoint" />
             <mxPoint x="2192.5" y="-2950" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="D7N9BfVhg-vGijWHmY6L-1" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;危险品知识库表&lt;div style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2280" y="-2750" width="165" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
