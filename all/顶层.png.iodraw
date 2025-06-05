@@ -1850,16 +1850,16 @@
           <mxGeometry x="2252" y="-3917.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-48" value="船运公司名称" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1990" y="-3940" width="120" height="52.5" as="geometry" />
+          <mxGeometry x="2010" y="-3940" width="100" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-49" value="公司地址" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2222" y="-3787.5" width="80" height="50" as="geometry" />
+          <mxGeometry x="2210" y="-3790" width="92" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-50" value="公司船舶数量" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="2090" y="-4040" width="100" height="58" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-51" value="船运公司ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2110" y="-3850" width="80" height="50" as="geometry" />
+          <mxGeometry x="2080" y="-3860" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-52" value="联系方式" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="2200" y="-4100" width="112" height="52.5" as="geometry" />
