@@ -303,7 +303,7 @@
         <mxCell id="AsGdMNVTeO2VcvppsrNn-95" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;D3&lt;div style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 集装箱信息库&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="365" y="2380" width="258" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="AsGdMNVTeO2VcvppsrNn-100" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;" parent="1" edge="1">
+        <mxCell id="AsGdMNVTeO2VcvppsrNn-100" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" edge="1" source="AsGdMNVTeO2VcvppsrNn-94">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="604" y="2190" as="sourcePoint" />
             <mxPoint x="510" y="2190" as="targetPoint" />
