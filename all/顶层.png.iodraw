@@ -741,10 +741,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QseufgcnjV-5NwnC1HGA-29" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;entryX=0.704;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="dXlYAXGBOOsgMJ2DRO5--1">
+        <mxCell id="QseufgcnjV-5NwnC1HGA-29" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="898" y="-322" as="sourcePoint" />
-            <mxPoint x="898" y="-190" as="targetPoint" />
+            <mxPoint x="896" y="-187" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QseufgcnjV-5NwnC1HGA-30" value="船运计划&lt;div style=&quot;font-size: 20px;&quot;&gt;信息&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="QseufgcnjV-5NwnC1HGA-29" vertex="1" connectable="0">
@@ -765,7 +765,7 @@
         </mxCell>
         <mxCell id="QseufgcnjV-5NwnC1HGA-34" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;entryX=0.808;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="QseufgcnjV-5NwnC1HGA-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="815" y="-182" as="sourcePoint" />
+            <mxPoint x="818" y="-182" as="sourcePoint" />
             <mxPoint x="802.5" y="-280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
