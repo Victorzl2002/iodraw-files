@@ -1900,14 +1900,14 @@
         <mxCell id="4JiiHxqERORHDsRlsb45-70" value="容积" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="3307" y="-3742.5" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4JiiHxqERORHDsRlsb45-71" value="最大容积" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="3472" y="-3501.03" width="80" height="50" as="geometry" />
+        <mxCell id="4JiiHxqERORHDsRlsb45-71" value="最大容积" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="3490.485" y="-3519.5150000000003" width="71.03" height="108" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-72" value="集装箱位置" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="3412" y="-3442.5" width="80" height="50" as="geometry" />
+          <mxGeometry x="3412" y="-3442.5" width="98" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-73" value="集装箱状态" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="3307" y="-3442.5" width="80" height="50" as="geometry" />
+          <mxGeometry x="3290" y="-3442.5" width="97" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-74" value="状态" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="2540" y="-3451.03" width="87" height="51.03" as="geometry" />
