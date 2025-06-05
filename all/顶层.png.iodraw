@@ -10,7 +10,7 @@
         <mxCell id="dXlYAXGBOOsgMJ2DRO5--3" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;E6&lt;/div&gt;硬件设备" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="792.5" y="140" width="125" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="dXlYAXGBOOsgMJ2DRO5--21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.126;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" parent="1" target="dXlYAXGBOOsgMJ2DRO5--1" edge="1">
+        <mxCell id="dXlYAXGBOOsgMJ2DRO5--21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.06;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" parent="1" target="dXlYAXGBOOsgMJ2DRO5--1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="769.5" y="-285.25" as="sourcePoint" />
             <mxPoint x="600.5" y="-285.25" as="targetPoint" />
@@ -708,7 +708,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QseufgcnjV-5NwnC1HGA-20" value="E2&lt;div style=&quot;font-size: 20px;&quot;&gt;货代公司&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="707.5" y="-420" width="130" height="136" as="geometry" />
+          <mxGeometry x="713" y="-455" width="130" height="136" as="geometry" />
         </mxCell>
         <mxCell id="QseufgcnjV-5NwnC1HGA-21" value="E4&lt;div style=&quot;font-size: 20px;&quot;&gt;港口&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1172.5" y="-190" width="130" height="136" as="geometry" />
