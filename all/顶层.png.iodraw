@@ -1468,7 +1468,7 @@
         </mxCell>
         <mxCell id="LnETDzkhnjoZCmKpsT00-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="LnETDzkhnjoZCmKpsT00-25" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2060" y="-2790" as="targetPoint" />
+            <mxPoint x="2060" y="-2760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LnETDzkhnjoZCmKpsT00-34" value="危险品信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="LnETDzkhnjoZCmKpsT00-33" vertex="1" connectable="0">
@@ -1494,7 +1494,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LnETDzkhnjoZCmKpsT00-35" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;" parent="1" edge="1">
+        <mxCell id="LnETDzkhnjoZCmKpsT00-35" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;entryX=0.898;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="LnETDzkhnjoZCmKpsT00-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2115" y="-2790" as="sourcePoint" />
             <mxPoint x="2115" y="-2865" as="targetPoint" />
