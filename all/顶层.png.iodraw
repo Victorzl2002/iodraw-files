@@ -973,14 +973,7 @@
           <mxGeometry x="125" y="-1845" width="155" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-57" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;集装箱信息表&lt;div style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="310" y="-1440" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_ZJ5SS_poQakwsE9Tasu-59" value="" style="endArrow=none;html=1;rounded=0;exitX=0.229;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=20;entryX=0.213;entryY=-0.059;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_ZJ5SS_poQakwsE9Tasu-58" edge="1" target="_ZJ5SS_poQakwsE9Tasu-57">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="387.5" y="-1390" as="sourcePoint" />
-            <mxPoint x="387.5" y="-1440" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
+          <mxGeometry x="290" y="-1440" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;" parent="1" source="_ZJ5SS_poQakwsE9Tasu-63" target="_ZJ5SS_poQakwsE9Tasu-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -3363,13 +3356,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2027.5" y="-2950" as="sourcePoint" />
             <mxPoint x="2192.5" y="-2950" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D7N9BfVhg-vGijWHmY6L-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0.229;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=20;entryX=0.213;entryY=-0.059;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_ZJ5SS_poQakwsE9Tasu-57" target="_ZJ5SS_poQakwsE9Tasu-58">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="356" y="-1382" as="sourcePoint" />
-            <mxPoint x="353" y="-1444" as="targetPoint" />
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-58" value="D1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
