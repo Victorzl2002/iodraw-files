@@ -1336,9 +1336,9 @@
         <mxCell id="LnETDzkhnjoZCmKpsT00-10" value="P5.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1765" y="-2795" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LnETDzkhnjoZCmKpsT00-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;" parent="1" edge="1">
+        <mxCell id="LnETDzkhnjoZCmKpsT00-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1" target="_ZJ5SS_poQakwsE9Tasu-185">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1823" y="-2800" as="sourcePoint" />
+            <mxPoint x="1834" y="-2805" as="sourcePoint" />
             <mxPoint x="1823" y="-2870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
