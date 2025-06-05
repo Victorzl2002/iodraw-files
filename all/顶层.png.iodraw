@@ -1007,7 +1007,7 @@
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-65" value="P2.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="497.5" y="-1850" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_ZJ5SS_poQakwsE9Tasu-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="_ZJ5SS_poQakwsE9Tasu-66" target="_ZJ5SS_poQakwsE9Tasu-63" edge="1">
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.885;entryY=1.034;entryDx=0;entryDy=0;fontSize=20;entryPerimeter=0;" parent="1" source="_ZJ5SS_poQakwsE9Tasu-66" target="_ZJ5SS_poQakwsE9Tasu-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_ZJ5SS_poQakwsE9Tasu-76" value="货物集装箱&lt;div style=&quot;font-size: 20px;&quot;&gt;信息&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="_ZJ5SS_poQakwsE9Tasu-75" vertex="1" connectable="0">
@@ -1042,7 +1042,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ZJ5SS_poQakwsE9Tasu-73" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;" parent="1" edge="1">
+        <mxCell id="_ZJ5SS_poQakwsE9Tasu-73" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="_ZJ5SS_poQakwsE9Tasu-66">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="-1750" as="sourcePoint" />
             <mxPoint x="490" y="-1690" as="targetPoint" />
