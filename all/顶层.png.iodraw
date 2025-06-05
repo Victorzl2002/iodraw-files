@@ -2021,13 +2021,13 @@
           <mxGeometry x="2340" y="-4280" width="102" height="63.91" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-101" value="箱位" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2662" y="-4336.09" width="80" height="50" as="geometry" />
+          <mxGeometry x="2662" y="-4340" width="98" height="53.91" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-102" value="出港日期" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="2742" y="-4201.09" width="88" height="61.09" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-103" value="航行时间" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2352" y="-4201.09" width="80" height="50" as="geometry" />
+          <mxGeometry x="2330" y="-4201.09" width="102" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4JiiHxqERORHDsRlsb45-105" value="订单时间" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="3020" y="-3800" width="82" height="50" as="geometry" />
