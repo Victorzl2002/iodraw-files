@@ -1522,10 +1522,10 @@
         <mxCell id="LnETDzkhnjoZCmKpsT00-89" value="D2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="357.5" y="-3085" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LnETDzkhnjoZCmKpsT00-91" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" parent="1" target="LnETDzkhnjoZCmKpsT00-88" edge="1">
+        <mxCell id="LnETDzkhnjoZCmKpsT00-91" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="-3175" as="sourcePoint" />
-            <mxPoint x="435" y="-3105" as="targetPoint" />
+            <mxPoint x="440" y="-3100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LnETDzkhnjoZCmKpsT00-92" value="路线规划" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="LnETDzkhnjoZCmKpsT00-91" vertex="1" connectable="0">
