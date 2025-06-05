@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dXlYAXGBOOsgMJ2DRO5--1" value="&lt;span style=&quot;text-align: start; font-size: 20px; font-family: 宋体;&quot;&gt;基于数字孪生的智慧港口管控平台&lt;/span&gt;&lt;span style=&quot;font-size: 20px; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="742.5" y="-180" width="210" height="230" as="geometry" />
+          <mxGeometry x="742.5" y="-180" width="221.5" height="230" as="geometry" />
         </mxCell>
         <mxCell id="dXlYAXGBOOsgMJ2DRO5--3" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;E6&lt;/div&gt;硬件设备" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="792.5" y="140" width="125" height="150" as="geometry" />
@@ -741,7 +741,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QseufgcnjV-5NwnC1HGA-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.81;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;exitX=0.128;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="QseufgcnjV-5NwnC1HGA-22">
+        <mxCell id="QseufgcnjV-5NwnC1HGA-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=20;exitX=0.128;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" target="dXlYAXGBOOsgMJ2DRO5--1" source="QseufgcnjV-5NwnC1HGA-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="881.88" y="-277.47" as="sourcePoint" />
             <mxPoint x="881.9799999999999" y="-180" as="targetPoint" />
