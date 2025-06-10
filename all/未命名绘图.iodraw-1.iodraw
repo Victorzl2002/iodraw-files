@@ -587,11 +587,21 @@
             <mxPoint x="-210" y="1490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9o8906sgMLqolh5qNZ9H-27" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9o8906sgMLqolh5qNZ9H-25">
+          <mxGeometry x="-0.1714" y="-2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9o8906sgMLqolh5qNZ9H-20" value="是否满足遗传迭代条件" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-410" y="1450" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9o8906sgMLqolh5qNZ9H-22" value="输出结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-400" y="1570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9o8906sgMLqolh5qNZ9H-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9o8906sgMLqolh5qNZ9H-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-19" y="1030" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9o8906sgMLqolh5qNZ9H-26" value="遗传算子操作生成新群体" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-200" y="1460" width="120" height="60" as="geometry" />
