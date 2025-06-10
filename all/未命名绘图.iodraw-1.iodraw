@@ -595,6 +595,11 @@
         <mxCell id="9o8906sgMLqolh5qNZ9H-20" value="是否满足遗传迭代条件" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-410" y="1450" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="9o8906sgMLqolh5qNZ9H-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9o8906sgMLqolh5qNZ9H-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-340" y="1681.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9o8906sgMLqolh5qNZ9H-22" value="输出结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-400" y="1570" width="120" height="60" as="geometry" />
         </mxCell>
