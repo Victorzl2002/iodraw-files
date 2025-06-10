@@ -568,8 +568,14 @@
         <mxCell id="9o8906sgMLqolh5qNZ9H-14" value="对染色体进行遗传操作" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-600" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9o8906sgMLqolh5qNZ9H-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9o8906sgMLqolh5qNZ9H-18" target="9o8906sgMLqolh5qNZ9H-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9o8906sgMLqolh5qNZ9H-18" value="模拟退火跳出局部最优解" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-400" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9o8906sgMLqolh5qNZ9H-20" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-410" y="1480" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
