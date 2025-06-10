@@ -541,11 +541,16 @@
         <mxCell id="9o8906sgMLqolh5qNZ9H-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9o8906sgMLqolh5qNZ9H-8" target="9o8906sgMLqolh5qNZ9H-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9o8906sgMLqolh5qNZ9H-17" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9o8906sgMLqolh5qNZ9H-15">
+          <mxGeometry x="-0.15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9o8906sgMLqolh5qNZ9H-8" value="是否满足终止条件" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-400" y="1110" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9o8906sgMLqolh5qNZ9H-10" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-400" y="1280" width="120" height="60" as="geometry" />
+        <mxCell id="9o8906sgMLqolh5qNZ9H-10" value="输出当前最优解" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-400" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9o8906sgMLqolh5qNZ9H-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9o8906sgMLqolh5qNZ9H-14">
           <mxGeometry relative="1" as="geometry">
