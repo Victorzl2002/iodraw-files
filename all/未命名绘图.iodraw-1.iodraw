@@ -530,8 +530,14 @@
         <mxCell id="9o8906sgMLqolh5qNZ9H-6" value="对确认解进行适应度评估" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-400" y="1013" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9o8906sgMLqolh5qNZ9H-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9o8906sgMLqolh5qNZ9H-8" target="9o8906sgMLqolh5qNZ9H-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9o8906sgMLqolh5qNZ9H-8" value="是否满足终止条件" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-400" y="1110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9o8906sgMLqolh5qNZ9H-10" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-400" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
