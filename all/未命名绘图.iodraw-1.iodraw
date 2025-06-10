@@ -611,7 +611,7 @@
         <mxCell id="9o8906sgMLqolh5qNZ9H-26" value="遗传算子操作生成新群体" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-200" y="1460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9o8906sgMLqolh5qNZ9H-29" value="输出当前最优解" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="9o8906sgMLqolh5qNZ9H-29" value="禁忌搜索出shi" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-190" y="1013" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
