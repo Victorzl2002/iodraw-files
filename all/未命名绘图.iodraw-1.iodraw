@@ -549,8 +549,12 @@
         </mxCell>
         <mxCell id="9o8906sgMLqolh5qNZ9H-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9o8906sgMLqolh5qNZ9H-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-530" y="903" as="targetPoint" />
+            <mxPoint x="-340" y="980" as="targetPoint" />
             <mxPoint x="-670" y="1073" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-620" y="1150" />
+              <mxPoint x="-620" y="980" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9o8906sgMLqolh5qNZ9H-14" value="对染色体进行遗传操作" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
