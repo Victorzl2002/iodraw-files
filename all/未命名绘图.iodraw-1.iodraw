@@ -512,11 +512,20 @@
         <mxCell id="1xASDSh5VGyTe2WPJ7jZ-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2440" y="690" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9o8906sgMLqolh5qNZ9H-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9o8906sgMLqolh5qNZ9H-0" target="9o8906sgMLqolh5qNZ9H-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9o8906sgMLqolh5qNZ9H-0" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-400" y="800" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9o8906sgMLqolh5qNZ9H-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9o8906sgMLqolh5qNZ9H-1" target="9o8906sgMLqolh5qNZ9H-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9o8906sgMLqolh5qNZ9H-1" value="初始化种群参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-400" y="913" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9o8906sgMLqolh5qNZ9H-6" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-400" y="1053" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
