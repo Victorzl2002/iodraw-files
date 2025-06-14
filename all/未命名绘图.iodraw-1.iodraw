@@ -763,9 +763,6 @@
         <mxCell id="xTui2K_oOb9vYygLflUI-71" value="- faces ：number" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=18;" vertex="1" parent="xTui2K_oOb9vYygLflUI-68">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="xTui2K_oOb9vYygLflUI-79" value="*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="545" y="1756" width="30" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="xTui2K_oOb9vYygLflUI-83" value="" style="endArrow=diamondThin;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;endFill=1;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xTui2K_oOb9vYygLflUI-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="605" y="1961" as="sourcePoint" />
@@ -786,9 +783,6 @@
         </mxCell>
         <mxCell id="xTui2K_oOb9vYygLflUI-87" value="包含" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="1914" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="xTui2K_oOb9vYygLflUI-89" value="依赖" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="815" y="1734" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
