@@ -814,7 +814,10 @@
           <mxGeometry y="156" width="251" height="26" as="geometry" />
         </mxCell>
         <mxCell id="rOtwJCO2WqJxmQh1J8hx-7" value="+ applyTransform（）：void&#xa;+ updateMaterial（）：void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="457" y="793" width="299" height="119" as="geometry" />
+          <mxGeometry x="465" y="816" width="251" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="rOtwJCO2WqJxmQh1J8hx-12" value="- visible ：boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="14" y="788" width="251" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
