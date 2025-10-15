@@ -3322,8 +3322,11 @@
         <mxCell id="hvrxIlqpAkbpaLk17832-1" value="R=5200" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-9152" y="-5259" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hvrxIlqpAkbpaLk17832-2" value="R=5200" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-9142" y="-5249" width="120" height="60" as="geometry" />
+        <mxCell id="hvrxIlqpAkbpaLk17832-2" value="&lt;div&gt;T3 3000&lt;/div&gt;r=2200" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-9305" y="-5156" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hvrxIlqpAkbpaLk17832-3" value="R=5200" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-9126" y="-5156" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
