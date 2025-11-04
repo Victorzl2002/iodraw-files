@@ -80,7 +80,10 @@
           <mxGeometry x="605" y="610" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Rw9VzkklCD5rb69LDwws-33" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="125" width="90" height="55" as="geometry" />
+          <mxGeometry x="-90" y="112.5" width="90" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Rw9VzkklCD5rb69LDwws-34" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;算力资源层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="617.5" width="90" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
