@@ -37,7 +37,7 @@
         <mxCell id="Rw9VzkklCD5rb69LDwws-17" value="租户隔离" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="570" y="252.5" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Rw9VzkklCD5rb69LDwws-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Rw9VzkklCD5rb69LDwws-18" value="异构算力抽象VGPU&lt;div&gt;（GPU，NPU，TPU）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="300" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rw9VzkklCD5rb69LDwws-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
