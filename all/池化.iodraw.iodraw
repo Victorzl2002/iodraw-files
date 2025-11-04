@@ -19,7 +19,7 @@
         <mxCell id="Rw9VzkklCD5rb69LDwws-2" value="用户&lt;span style=&quot;background-color: initial;&quot;&gt;A（训练任务）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="50" y="105" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="kZ7YROIcpliA5VuAdCC1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rw9VzkklCD5rb69LDwws-3" target="Rw9VzkklCD5rb69LDwws-5">
+        <mxCell id="kZ7YROIcpliA5VuAdCC1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;" edge="1" parent="1" source="Rw9VzkklCD5rb69LDwws-3" target="Rw9VzkklCD5rb69LDwws-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Rw9VzkklCD5rb69LDwws-3" value="用户C（混合任务）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
