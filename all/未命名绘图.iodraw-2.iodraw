@@ -70,8 +70,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rw9VzkklCD5rb69LDwws-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="600" width="140" height="70" as="geometry" />
+        <mxCell id="Rw9VzkklCD5rb69LDwws-30" value="GPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="610" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Rw9VzkklCD5rb69LDwws-31" value="GPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="610" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Rw9VzkklCD5rb69LDwws-32" value="GPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="630" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
