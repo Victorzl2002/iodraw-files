@@ -138,7 +138,7 @@
         <mxCell id="cdboIc9y57-fB7zzbxzB-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-630" y="253" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cdboIc9y57-fB7zzbxzB-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cdboIc9y57-fB7zzbxzB-3" value="实现GPU池化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-630" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
