@@ -243,8 +243,8 @@
         <mxCell id="cdboIc9y57-fB7zzbxzB-36" value="计算节流门限流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cdboIc9y57-fB7zzbxzB-37" value="带宽令牌桶限流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1097" width="120" height="60" as="geometry" />
+        <mxCell id="cdboIc9y57-fB7zzbxzB-37" value="测算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="980" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
