@@ -203,13 +203,16 @@
         <mxCell id="cdboIc9y57-fB7zzbxzB-20" value="提交执行：允许API调用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-450" y="1327" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cdboIc9y57-fB7zzbxzB-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cdboIc9y57-fB7zzbxzB-25">
+        <mxCell id="cdboIc9y57-fB7zzbxzB-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.633;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cdboIc9y57-fB7zzbxzB-25" target="cdboIc9y57-fB7zzbxzB-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-190" y="1480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-25" value="回退策略：降低放行量/延迟提交/等待资源释放" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="1327" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cdboIc9y57-fB7zzbxzB-28" value="提交执行：允许API调用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="1487" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
