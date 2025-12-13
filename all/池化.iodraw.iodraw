@@ -258,6 +258,9 @@
         <mxCell id="cdboIc9y57-fB7zzbxzB-37" value="测算任务算力，显存，带宽实际使用量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="131" y="980" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cdboIc9y57-fB7zzbxzB-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1210" width="310" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
