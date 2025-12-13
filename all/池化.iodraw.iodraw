@@ -241,12 +241,18 @@
           <mxGeometry x="-20" y="1087" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-35" value="带宽令牌桶限流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1087" width="120" height="60" as="geometry" />
+          <mxGeometry x="131" y="1087" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-36" value="计算节流门限流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cdboIc9y57-fB7zzbxzB-37" target="cdboIc9y57-fB7zzbxzB-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cdboIc9y57-fB7zzbxzB-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cdboIc9y57-fB7zzbxzB-37" target="cdboIc9y57-fB7zzbxzB-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cdboIc9y57-fB7zzbxzB-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cdboIc9y57-fB7zzbxzB-37" target="cdboIc9y57-fB7zzbxzB-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-37" value="测算任务算力，显存，带宽实际使用量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
