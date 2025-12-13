@@ -203,7 +203,7 @@
         <mxCell id="cdboIc9y57-fB7zzbxzB-20" value="提交执行：允许API调用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-450" y="1327" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cdboIc9y57-fB7zzbxzB-25" value="提交执行：允许API调用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cdboIc9y57-fB7zzbxzB-25" value="回退策略：降低放行量/延迟提交/等待资源释放" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="1327" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
