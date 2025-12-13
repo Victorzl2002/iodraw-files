@@ -165,6 +165,9 @@
         <mxCell id="cdboIc9y57-fB7zzbxzB-14" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-750" y="1427" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cdboIc9y57-fB7zzbxzB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cdboIc9y57-fB7zzbxzB-16" target="cdboIc9y57-fB7zzbxzB-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-16" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="920" width="120" height="60" as="geometry" />
         </mxCell>
@@ -184,11 +187,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cdboIc9y57-fB7zzbxzB-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cdboIc9y57-fB7zzbxzB-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-18" value="是否满足放行容量小于节点容量" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-343.75" y="1120" width="187.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-20" value="提交执行：允许API调用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-450" y="1327" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cdboIc9y57-fB7zzbxzB-25" value="提交执行：允许API调用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="1337" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
