@@ -232,7 +232,10 @@
           <mxGeometry x="-490" y="1480" width="120" height="67" as="geometry" />
         </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-33" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-740" y="940" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cdboIc9y57-fB7zzbxzB-34" value="实现GPU池化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1027" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
