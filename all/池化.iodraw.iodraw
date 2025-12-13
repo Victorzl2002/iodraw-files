@@ -276,9 +276,19 @@
         <mxCell id="cdboIc9y57-fB7zzbxzB-51" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cdboIc9y57-fB7zzbxzB-48" target="cdboIc9y57-fB7zzbxzB-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cdboIc9y57-fB7zzbxzB-54" value="满足" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cdboIc9y57-fB7zzbxzB-51">
+          <mxGeometry x="-0.1364" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cdboIc9y57-fB7zzbxzB-48" target="cdboIc9y57-fB7zzbxzB-53">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cdboIc9y57-fB7zzbxzB-55" value="不满足" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cdboIc9y57-fB7zzbxzB-52">
+          <mxGeometry x="-0.1743" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-48" value="节点容量校验" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
