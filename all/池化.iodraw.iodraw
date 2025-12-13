@@ -237,11 +237,20 @@
         <mxCell id="cdboIc9y57-fB7zzbxzB-33" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="131" y="870" width="119" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cdboIc9y57-fB7zzbxzB-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cdboIc9y57-fB7zzbxzB-34" target="cdboIc9y57-fB7zzbxzB-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-34" value="显存配额门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="1087" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cdboIc9y57-fB7zzbxzB-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cdboIc9y57-fB7zzbxzB-35" target="cdboIc9y57-fB7zzbxzB-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-35" value="带宽令牌桶限流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="131" y="1087" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cdboIc9y57-fB7zzbxzB-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cdboIc9y57-fB7zzbxzB-36" target="cdboIc9y57-fB7zzbxzB-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-36" value="计算节流门限流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1087" width="120" height="60" as="geometry" />
@@ -259,7 +268,7 @@
           <mxGeometry x="131" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1210" width="310" height="60" as="geometry" />
+          <mxGeometry x="35.5" y="1210" width="310" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
