@@ -144,8 +144,16 @@
         <mxCell id="cdboIc9y57-fB7zzbxzB-3" value="实现GPU池化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-630" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cdboIc9y57-fB7zzbxzB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cdboIc9y57-fB7zzbxzB-4" target="cdboIc9y57-fB7zzbxzB-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-570" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-4" value="测算算力，显存，带宽实际使用量" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="455" width="120" height="60" as="geometry" />
+          <mxGeometry x="-630" y="455" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="cdboIc9y57-fB7zzbxzB-7" value="显存配额门限流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
