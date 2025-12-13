@@ -176,11 +176,16 @@
             <mxPoint x="-390" y="1320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cdboIc9y57-fB7zzbxzB-21" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cdboIc9y57-fB7zzbxzB-19">
+          <mxGeometry x="-0.0547" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-18" value="是否满足放行容量小于节点容量" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-347.5" y="1120" width="195" height="140" as="geometry" />
         </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-20" value="实现GPU池化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="1327" width="120" height="60" as="geometry" />
+          <mxGeometry x="-450" y="1327" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
