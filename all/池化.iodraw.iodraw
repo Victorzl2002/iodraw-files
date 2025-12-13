@@ -296,7 +296,7 @@
         </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cdboIc9y57-fB7zzbxzB-50">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="1640" as="targetPoint" />
+            <mxPoint x="190" y="1610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-50" value="执行：API调用" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -304,6 +304,9 @@
         </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-53" value="回退/延后" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="225.5" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cdboIc9y57-fB7zzbxzB-57" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="131" y="1620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
