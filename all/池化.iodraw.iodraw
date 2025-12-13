@@ -200,9 +200,9 @@
         <mxCell id="cdboIc9y57-fB7zzbxzB-18" value="是否满足放行容量小于节点容量" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-343.75" y="1120" width="187.5" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="cdboIc9y57-fB7zzbxzB-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cdboIc9y57-fB7zzbxzB-20">
+        <mxCell id="cdboIc9y57-fB7zzbxzB-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cdboIc9y57-fB7zzbxzB-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-440" y="1520" as="targetPoint" />
+            <mxPoint x="-430" y="1490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-20" value="提交执行：允许API调用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -221,6 +221,9 @@
         </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-28" value="重新计算放行总量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="1480" width="120" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="cdboIc9y57-fB7zzbxzB-31" value="重新计算放行总量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="1480" width="120" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
