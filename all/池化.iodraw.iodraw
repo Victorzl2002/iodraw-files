@@ -249,9 +249,6 @@
         <mxCell id="cdboIc9y57-fB7zzbxzB-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cdboIc9y57-fB7zzbxzB-37" target="cdboIc9y57-fB7zzbxzB-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cdboIc9y57-fB7zzbxzB-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cdboIc9y57-fB7zzbxzB-37" target="cdboIc9y57-fB7zzbxzB-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-37" value="测算任务算力，显存，带宽实际使用量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="131" y="980" width="120" height="60" as="geometry" />
         </mxCell>
