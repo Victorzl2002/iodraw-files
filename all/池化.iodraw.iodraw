@@ -147,7 +147,7 @@
         <mxCell id="cdboIc9y57-fB7zzbxzB-4" value="测算算力，显存，带宽实际使用量" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-630" y="455" width="120" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="cdboIc9y57-fB7zzbxzB-7" value="显存配额门限流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cdboIc9y57-fB7zzbxzB-7" value="三门限流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-770" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-8" value="带宽令牌桶限流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -155,12 +155,6 @@
         </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-9" value="计算节流门限流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-490" y="610" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cdboIc9y57-fB7zzbxzB-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-620" y="570" as="sourcePoint" />
-            <mxPoint x="-570" y="520" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
