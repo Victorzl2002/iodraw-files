@@ -231,8 +231,11 @@
         <mxCell id="cdboIc9y57-fB7zzbxzB-31" value="运行监测/计量更新，进入下一时刻" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-490" y="1480" width="120" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="cdboIc9y57-fB7zzbxzB-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cdboIc9y57-fB7zzbxzB-33" target="cdboIc9y57-fB7zzbxzB-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-33" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="131" y="870" width="119" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-34" value="显存配额门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="1087" width="120" height="60" as="geometry" />
@@ -242,6 +245,12 @@
         </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-36" value="计算节流门限流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cdboIc9y57-fB7zzbxzB-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cdboIc9y57-fB7zzbxzB-37" target="cdboIc9y57-fB7zzbxzB-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cdboIc9y57-fB7zzbxzB-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cdboIc9y57-fB7zzbxzB-37" target="cdboIc9y57-fB7zzbxzB-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cdboIc9y57-fB7zzbxzB-37" value="测算任务算力，显存，带宽实际使用量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="131" y="980" width="120" height="60" as="geometry" />
