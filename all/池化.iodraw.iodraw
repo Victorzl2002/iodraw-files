@@ -270,8 +270,8 @@
         <mxCell id="cdboIc9y57-fB7zzbxzB-44" value="得到实际限流后的放行使用量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="35.5" y="1210" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cdboIc9y57-fB7zzbxzB-48" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="151" y="1307" width="80" height="80" as="geometry" />
+        <mxCell id="cdboIc9y57-fB7zzbxzB-48" value="节点容量校验" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="111" y="1317" width="159" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
